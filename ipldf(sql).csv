@@ -1,0 +1,873 @@
+Match,Date,Teams,Ground,Result,Team1,Team2,Winner,Win by,Chasing Team
+1,2008-04-18,Royal Challengers Bangalore v Kolkata Knight Riders,Bengaluru,Kolkata Knight Riders won by 140 Runs,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,140 Runs,Lost
+2,2008-04-19,Punjab Kings v Chennai Super Kings,Mohali,Chennai Super Kings won by 33 Runs,Punjab Kings,Chennai Super Kings,Chennai Super Kings,33 Runs,Lost
+3,2008-04-19,Delhi Capitals v Rajasthan Royals,Delhi,Delhi Capitals won by 9 Wickets,Delhi Capitals,Rajasthan Royals,Delhi Capitals,9 Wickets,Won
+4,2008-04-20,Kolkata Knight Riders v Deccan Chargers,Kolkata,Kolkata Knight Riders won by 5 Wickets,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,5 Wickets,Won
+5,2008-04-20,Mumbai Indians v Royal Challengers Bangalore,Mumbai,Royal Challengers Bangalore won by 5 Wickets,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,5 Wickets,Won
+6,2008-04-21,Rajasthan Royals v Punjab Kings,Jaipur,Rajasthan Royals won by 6 Wickets,Rajasthan Royals,Punjab Kings,Rajasthan Royals,6 Wickets,Won
+7,2008-04-22,Deccan Chargers v Delhi Capitals,Hyderabad,Delhi Capitals won by 9 Wickets,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,9 Wickets,Won
+8,2008-04-23,Chennai Super Kings v Mumbai Indians,Chennai,Chennai Super Kings won by 6 Runs,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,6 Runs,Lost
+9,2008-04-24,Deccan Chargers v Rajasthan Royals,Hyderabad,Rajasthan Royals won by 3 Wickets,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,3 Wickets,Won
+10,2008-04-25,Punjab Kings v Mumbai Indians,Mohali,Punjab Kings won by 66 Runs,Punjab Kings,Mumbai Indians,Punjab Kings,66 Runs,Lost
+11,2008-04-26,Chennai Super Kings v Kolkata Knight Riders,Chennai,Chennai Super Kings won by 9 Wickets,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,9 Wickets,Won
+12,2008-04-26,Royal Challengers Bangalore v Rajasthan Royals,Bengaluru,Rajasthan Royals won by 7 Wickets,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,7 Wickets,Won
+13,2008-04-27,Punjab Kings v Delhi Capitals,Mohali,Punjab Kings won by 4 Wickets,Punjab Kings,Delhi Capitals,Punjab Kings,4 Wickets,Won
+14,2008-04-27,Mumbai Indians v Deccan Chargers,Mumbai,Deccan Chargers won by 10 Wickets,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,10 Wickets,Won
+15,2008-04-28,Royal Challengers Bangalore v Chennai Super Kings,Bengaluru,Chennai Super Kings won by 13 Runs,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,13 Runs,Lost
+16,2008-04-29,Kolkata Knight Riders v Mumbai Indians,Kolkata,Mumbai Indians won by 7 Wickets,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,7 Wickets,Won
+17,2008-04-30,Delhi Capitals v Royal Challengers Bangalore,Delhi,Delhi Capitals won by 10 Runs,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,10 Runs,Lost
+18,2008-05-01,Rajasthan Royals v Kolkata Knight Riders,Jaipur,Rajasthan Royals won by 45 Runs,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,45 Runs,Lost
+19,2008-05-01,Deccan Chargers v Punjab Kings,Hyderabad,Punjab Kings won by 7 Wickets,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,7 Wickets,Won
+20,2008-05-02,Chennai Super Kings v Delhi Capitals,Chennai,Delhi Capitals won by 8 Wickets,Chennai Super Kings,Delhi Capitals,Delhi Capitals,8 Wickets,Won
+21,2008-05-03,Royal Challengers Bangalore v Deccan Chargers,Bengaluru,Royal Challengers Bangalore won by 3 Runs,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,3 Runs,Lost
+22,2008-05-03,Punjab Kings v Kolkata Knight Riders,Mohali,Punjab Kings won by 9 Runs,Punjab Kings,Kolkata Knight Riders,Punjab Kings,9 Runs,Lost
+23,2008-05-04,Mumbai Indians v Delhi Capitals,Mumbai,Mumbai Indians won by 29 Runs,Mumbai Indians,Delhi Capitals,Mumbai Indians,29 Runs,Lost
+24,2008-05-04,Rajasthan Royals v Chennai Super Kings,Jaipur,Rajasthan Royals won by 8 Wickets,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,8 Wickets,Won
+25,2008-05-05,Royal Challengers Bangalore v Punjab Kings,Bengaluru,Punjab Kings won by 6 Wickets,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,6 Wickets,Won
+26,2008-05-06,Chennai Super Kings v Deccan Chargers,Chennai,Deccan Chargers won by 7 Wickets,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,7 Wickets,Won
+27,2008-05-07,Mumbai Indians v Rajasthan Royals,Mumbai,Mumbai Indians won by 7 Wickets,Mumbai Indians,Rajasthan Royals,Mumbai Indians,7 Wickets,Won
+28,2008-05-08,Delhi Capitals v Chennai Super Kings,Delhi,Chennai Super Kings won by 4 Wickets,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,4 Wickets,Won
+29,2008-05-08,Kolkata Knight Riders v Royal Challengers Bangalore,Kolkata,Kolkata Knight Riders won by 5 Runs,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,5 Runs,Lost
+30,2008-05-09,Rajasthan Royals v Deccan Chargers,Jaipur,Rajasthan Royals won by 8 Wickets,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,8 Wickets,Won
+31,2008-05-10,Chennai Super Kings v Punjab Kings,Chennai,Chennai Super Kings won by 18 Runs,Chennai Super Kings,Punjab Kings,Chennai Super Kings,18 Runs,Lost
+32,2008-05-11,Deccan Chargers v Kolkata Knight Riders,Hyderabad,Kolkata Knight Riders won by 23 Runs,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,23 Runs,Lost
+33,2008-05-11,Rajasthan Royals v Delhi Capitals,Jaipur,Rajasthan Royals won by 3 Wickets,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,3 Wickets,Won
+34,2008-05-12,Punjab Kings v Royal Challengers Bangalore,Mohali,Punjab Kings won by 9 Wickets,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,9 Wickets,Won
+35,2008-05-13,Kolkata Knight Riders v Delhi Capitals,Kolkata,Kolkata Knight Riders won by 23 Runs,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,23 Runs,Lost
+36,2008-05-14,Mumbai Indians v Chennai Super Kings,Mumbai,Mumbai Indians won by 9 Wickets,Mumbai Indians,Chennai Super Kings,Mumbai Indians,9 Wickets,Won
+37,2008-05-15,Delhi Capitals v Deccan Chargers,Delhi,Delhi Capitals won by 12 Runs,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,12 Runs,Lost
+38,2008-05-16,Mumbai Indians v Kolkata Knight Riders,Mumbai,Mumbai Indians won by 8 Wickets,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,8 Wickets,Won
+39,2008-05-17,Rajasthan Royals v Royal Challengers Bangalore,Jaipur,Rajasthan Royals won by 65 Runs,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,65 Runs,Lost
+40,2008-05-17,Delhi Capitals v Punjab Kings,Delhi,Punjab Kings won by 6 Runs [D/L],Delhi Capitals,Punjab Kings,Punjab Kings,6 Runs [D/L],Lost
+41,2008-05-18,Kolkata Knight Riders v Chennai Super Kings,Kolkata,Chennai Super Kings won by 3 Runs [D/L],Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,3 Runs [D/L],Lost
+42,2008-05-18,Deccan Chargers v Mumbai Indians,Hyderabad,Mumbai Indians won by 25 Runs,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,25 Runs,Lost
+43,2008-05-19,Royal Challengers Bangalore v Delhi Capitals,Bengaluru,Delhi Capitals won by 5 Wickets,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,5 Wickets,Won
+44,2008-05-20,Kolkata Knight Riders v Rajasthan Royals,Kolkata,Rajasthan Royals won by 6 Wickets,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,6 Wickets,Won
+45,2008-05-21,Punjab Kings v Mumbai Indians,Mumbai,Punjab Kings won by 1 Run,Punjab Kings,Mumbai Indians,Punjab Kings,1 Run,Won
+46,2008-05-21,Chennai Super Kings v Royal Challengers Bangalore,Chennai,Royal Challengers Bangalore won by 14 Runs,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,14 Runs,Lost
+47,2008-05-23,Punjab Kings v Deccan Chargers,Mohali,Punjab Kings won by 6 Wickets,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,6 Wickets,Won
+48,2008-05-24,Chennai Super Kings v Rajasthan Royals,Chennai,Rajasthan Royals won by 10 Runs,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,10 Runs,Lost
+49,2008-05-24,Delhi Capitals v Mumbai Indians,Delhi,Delhi Capitals won by 5 Wickets,Delhi Capitals,Mumbai Indians,Delhi Capitals,5 Wickets,Won
+50,2008-05-25,Deccan Chargers v Royal Challengers Bangalore,Hyderabad,Royal Challengers Bangalore won by 5 Wickets,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,5 Wickets,Won
+51,2008-05-25,Kolkata Knight Riders v Punjab Kings,Kolkata,Kolkata Knight Riders won by 3 Wickets,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,3 Wickets,Won
+52,2008-05-26,Rajasthan Royals v Mumbai Indians,Jaipur,Rajasthan Royals won by 5 Wickets,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,5 Wickets,Won
+53,2008-05-27,Deccan Chargers v Chennai Super Kings,Hyderabad,Chennai Super Kings won by 7 Wickets,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,7 Wickets,Won
+54,2008-05-28,Royal Challengers Bangalore v Mumbai Indians,Bengaluru,Mumbai Indians won by 9 Wickets,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,9 Wickets,Won
+55,2008-05-28,Punjab Kings v Rajasthan Royals,Mohali,Punjab Kings won by 41 Runs,Punjab Kings,Rajasthan Royals,Punjab Kings,41 Runs,Lost
+56,2008-05-30,Delhi Capitals v Rajasthan Royals,Mumbai,Rajasthan Royals won by 105 Runs,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,105 Runs,Lost
+57,2008-05-31,Punjab Kings v Chennai Super Kings,Mumbai,Chennai Super Kings won by 9 Wickets,Punjab Kings,Chennai Super Kings,Chennai Super Kings,9 Wickets,Won
+58,2008-06-01,Chennai Super Kings v Rajasthan Royals,Mumbai,Rajasthan Royals won by 3 Wickets,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,3 Wickets,Won
+59,2009-04-18,Chennai Super Kings v Mumbai Indians,Cape Town,Mumbai Indians won by 19 Runs,Chennai Super Kings,Mumbai Indians,Mumbai Indians,19 Runs,Lost
+60,2009-04-18,Royal Challengers Bangalore v Rajasthan Royals,Cape Town,Royal Challengers Bangalore won by 75 Runs,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,75 Runs,Lost
+61,2009-04-19,Delhi Capitals v Punjab Kings,Cape Town,Delhi Capitals won by 10 Wickets [D/L],Delhi Capitals,Punjab Kings,Delhi Capitals,10 Wickets [D/L],Won
+62,2009-04-19,Deccan Chargers v Kolkata Knight Riders,Cape Town,Deccan Chargers won by 8 Wickets,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,8 Wickets,Won
+63,2009-04-20,Royal Challengers Bangalore v Chennai Super Kings,Port Elizabeth,Chennai Super Kings won by 92 Runs,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,92 Runs,Lost
+64,2009-04-21,Punjab Kings v Kolkata Knight Riders,Durban,Kolkata Knight Riders won by 11 Runs [D/L],Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,11 Runs [D/L],Lost
+65,2009-04-22,Royal Challengers Bangalore v Deccan Chargers,Cape Town,Deccan Chargers won by 24 Runs,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,24 Runs,Lost
+66,2009-04-23,Kolkata Knight Riders v Rajasthan Royals,Cape Town,Rajasthan Royals won by tie,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,tie,Tie
+67,2009-04-23,Chennai Super Kings v Delhi Capitals,Durban,Delhi Capitals won by 9 Runs,Chennai Super Kings,Delhi Capitals,Delhi Capitals,9 Runs,Lost
+68,2009-04-24,Royal Challengers Bangalore v Punjab Kings,Durban,Punjab Kings won by 7 Wickets,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,7 Wickets,Won
+69,2009-04-25,Deccan Chargers v Mumbai Indians,Durban,Deccan Chargers won by 12 Runs,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,12 Runs,Lost
+70,2009-04-26,Royal Challengers Bangalore v Delhi Capitals,Port Elizabeth,Delhi Capitals won by 6 Wickets,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,6 Wickets,Won
+71,2009-04-26,Punjab Kings v Rajasthan Royals,Cape Town,Punjab Kings won by 27 Runs,Punjab Kings,Rajasthan Royals,Punjab Kings,27 Runs,Lost
+72,2009-04-27,Chennai Super Kings v Deccan Chargers,Durban,Deccan Chargers won by 6 Wickets,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,6 Wickets,Won
+73,2009-04-27,Kolkata Knight Riders v Mumbai Indians,Port Elizabeth,Mumbai Indians won by 92 Runs,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,92 Runs,Lost
+74,2009-04-28,Delhi Capitals v Rajasthan Royals,Centurion,Rajasthan Royals won by 5 Wickets,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,5 Wickets,Won
+75,2009-04-29,Royal Challengers Bangalore v Kolkata Knight Riders,Durban,Royal Challengers Bangalore won by 5 Wickets,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,5 Wickets,Won
+76,2009-04-29,Punjab Kings v Mumbai Indians,Durban,Punjab Kings won by 3 Runs,Punjab Kings,Mumbai Indians,Punjab Kings,3 Runs,Lost
+77,2009-04-30,Deccan Chargers v Delhi Capitals,Centurion,Delhi Capitals won by 6 Wickets,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,6 Wickets,Won
+78,2009-04-30,Chennai Super Kings v Rajasthan Royals,East London,Chennai Super Kings won by 38 Runs,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,38 Runs,Lost
+79,2009-05-01,Kolkata Knight Riders v Mumbai Indians,East London,Mumbai Indians won by 9 Runs,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9 Runs,Lost
+80,2009-05-01,Royal Challengers Bangalore v Punjab Kings,Durban,Royal Challengers Bangalore won by 8 Runs,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,8 Runs,Lost
+81,2009-05-02,Deccan Chargers v Rajasthan Royals,Port Elizabeth,Rajasthan Royals won by 3 Wickets,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,3 Wickets,Won
+82,2009-05-02,Chennai Super Kings v Delhi Capitals,Johannesburg,Chennai Super Kings won by 18 Runs,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,18 Runs,Lost
+83,2009-05-03,Punjab Kings v Kolkata Knight Riders,Port Elizabeth,Punjab Kings won by 6 Wickets,Punjab Kings,Kolkata Knight Riders,Punjab Kings,6 Wickets,Won
+84,2009-05-03,Royal Challengers Bangalore v Mumbai Indians,Johannesburg,Royal Challengers Bangalore won by 9 Wickets,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,9 Wickets,Won
+85,2009-05-04,Chennai Super Kings v Deccan Chargers,East London,Chennai Super Kings won by 78 Runs,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,78 Runs,Lost
+86,2009-05-05,Punjab Kings v Rajasthan Royals,Durban,Rajasthan Royals won by 78 Runs,Punjab Kings,Rajasthan Royals,Rajasthan Royals,78 Runs,Lost
+87,2009-05-05,Delhi Capitals v Kolkata Knight Riders,Durban,Delhi Capitals won by 9 Wickets,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,9 Wickets,Won
+88,2009-05-06,Deccan Chargers v Mumbai Indians,Centurion,Deccan Chargers won by 19 Runs,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,19 Runs,Lost
+89,2009-05-07,Royal Challengers Bangalore v Rajasthan Royals,Centurion,Rajasthan Royals won by 7 Wickets,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,7 Wickets,Won
+90,2009-05-07,Chennai Super Kings v Punjab Kings,Centurion,Chennai Super Kings won by 12 Runs [D/L],Chennai Super Kings,Punjab Kings,Chennai Super Kings,12 Runs [D/L],Lost
+91,2009-05-08,Delhi Capitals v Mumbai Indians,East London,Delhi Capitals won by 7 Wickets,Delhi Capitals,Mumbai Indians,Delhi Capitals,7 Wickets,Won
+92,2009-05-09,Deccan Chargers v Punjab Kings,Kimberley,Punjab Kings won by 3 Wickets,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,3 Wickets,Won
+93,2009-05-09,Chennai Super Kings v Rajasthan Royals,Kimberley,Chennai Super Kings won by 7 Wickets,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,7 Wickets,Won
+94,2009-05-10,Royal Challengers Bangalore v Mumbai Indians,Port Elizabeth,Mumbai Indians won by 16 Runs,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,16 Runs,Lost
+95,2009-05-10,Delhi Capitals v Kolkata Knight Riders,Johannesburg,Delhi Capitals won by 7 Wickets,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,7 Wickets,Won
+96,2009-05-11,Deccan Chargers v Rajasthan Royals,Kimberley,Deccan Chargers won by 53 Runs,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,53 Runs,Lost
+97,2009-05-12,Royal Challengers Bangalore v Kolkata Knight Riders,Centurion,Royal Challengers Bangalore won by 6 Wickets,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,6 Wickets,Won
+98,2009-05-12,Punjab Kings v Mumbai Indians,Centurion,Mumbai Indians won by 8 Wickets,Punjab Kings,Mumbai Indians,Mumbai Indians,8 Wickets,Won
+99,2009-05-13,Deccan Chargers v Delhi Capitals,Durban,Delhi Capitals won by 12 Runs,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,12 Runs,Lost
+100,2009-05-14,Royal Challengers Bangalore v Chennai Super Kings,Durban,Royal Challengers Bangalore won by 2 Wickets,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,2 Wickets,Won
+101,2009-05-14,Mumbai Indians v Rajasthan Royals,Durban,Rajasthan Royals won by 2 Runs,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,2 Runs,Lost
+102,2009-05-15,Delhi Capitals v Punjab Kings,Bloemfontein,Punjab Kings won by 6 Wickets,Delhi Capitals,Punjab Kings,Punjab Kings,6 Wickets,Won
+103,2009-05-16,Chennai Super Kings v Mumbai Indians,Port Elizabeth,Chennai Super Kings won by 7 Wickets,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,7 Wickets,Won
+104,2009-05-16,Deccan Chargers v Kolkata Knight Riders,Johannesburg,Deccan Chargers won by 6 Wickets,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,6 Wickets,Won
+105,2009-05-17,Deccan Chargers v Punjab Kings,Johannesburg,Punjab Kings won by 1 Run,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,1 Run,Won
+106,2009-05-17,Delhi Capitals v Rajasthan Royals,Bloemfontein,Delhi Capitals won by 14 Runs,Delhi Capitals,Rajasthan Royals,Delhi Capitals,14 Runs,Lost
+107,2009-05-18,Chennai Super Kings v Kolkata Knight Riders,Centurion,Kolkata Knight Riders won by 7 Wickets,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,7 Wickets,Won
+108,2009-05-19,Royal Challengers Bangalore v Delhi Capitals,Johannesburg,Royal Challengers Bangalore won by 7 Wickets,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,7 Wickets,Won
+109,2009-05-20,Kolkata Knight Riders v Rajasthan Royals,Durban,Kolkata Knight Riders won by 4 Wickets,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,4 Wickets,Won
+110,2009-05-20,Chennai Super Kings v Punjab Kings,Durban,Chennai Super Kings won by 24 Runs,Chennai Super Kings,Punjab Kings,Chennai Super Kings,24 Runs,Lost
+111,2009-05-21,Delhi Capitals v Mumbai Indians,Centurion,Delhi Capitals won by 4 Wickets,Delhi Capitals,Mumbai Indians,Delhi Capitals,4 Wickets,Won
+112,2009-05-21,Royal Challengers Bangalore v Deccan Chargers,Centurion,Royal Challengers Bangalore won by 12 Runs,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,12 Runs,Lost
+113,2009-05-22,Delhi Capitals v Deccan Chargers,Centurion,Deccan Chargers won by 6 Wickets,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,6 Wickets,Won
+114,2009-05-23,Royal Challengers Bangalore v Chennai Super Kings,Johannesburg,Royal Challengers Bangalore won by 6 Wickets,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,6 Wickets,Won
+115,2009-05-24,Royal Challengers Bangalore v Deccan Chargers,Johannesburg,Deccan Chargers won by 6 Runs,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,6 Runs,Lost
+116,2010-03-12,Deccan Chargers v Kolkata Knight Riders,Mumbai,Kolkata Knight Riders won by 11 Runs,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,11 Runs,Lost
+117,2010-03-13,Mumbai Indians v Rajasthan Royals,Mumbai,Mumbai Indians won by 4 Runs,Mumbai Indians,Rajasthan Royals,Mumbai Indians,4 Runs,Lost
+118,2010-03-13,Punjab Kings v Delhi Capitals,Mohali,Delhi Capitals won by 5 Wickets,Punjab Kings,Delhi Capitals,Delhi Capitals,5 Wickets,Won
+119,2010-03-14,Kolkata Knight Riders v Royal Challengers Bangalore,Kolkata,Kolkata Knight Riders won by 7 Wickets,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,7 Wickets,Won
+120,2010-03-14,Chennai Super Kings v Deccan Chargers,Chennai,Deccan Chargers won by 31 Runs,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,31 Runs,Lost
+121,2010-03-15,Rajasthan Royals v Delhi Capitals,Cuttack,Delhi Capitals won by 6 Wickets,Rajasthan Royals,Delhi Capitals,Delhi Capitals,6 Wickets,Won
+122,2010-03-16,Royal Challengers Bangalore v Punjab Kings,Bengaluru,Royal Challengers Bangalore won by 8 Wickets,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,8 Wickets,Won
+123,2010-03-16,Chennai Super Kings v Kolkata Knight Riders,Kolkata,Chennai Super Kings won by 55 Runs,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,55 Runs,Lost
+124,2010-03-17,Delhi Capitals v Mumbai Indians,Delhi,Mumbai Indians won by 98 Runs,Delhi Capitals,Mumbai Indians,Mumbai Indians,98 Runs,Lost
+125,2010-03-18,Royal Challengers Bangalore v Rajasthan Royals,Bengaluru,Royal Challengers Bangalore won by 10 Wickets,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,10 Wickets,Won
+126,2010-03-19,Delhi Capitals v Chennai Super Kings,Delhi,Chennai Super Kings won by 5 Wickets,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,5 Wickets,Won
+127,2010-03-19,Deccan Chargers v Punjab Kings,Cuttack,Deccan Chargers won by 6 Runs,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,6 Runs,Lost
+128,2010-03-20,Rajasthan Royals v Kolkata Knight Riders,Ahmedabad,Rajasthan Royals won by 34 Runs,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,34 Runs,Lost
+129,2010-03-20,Mumbai Indians v Royal Challengers Bangalore,Cuttack,Royal Challengers Bangalore won by 7 Wickets,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,7 Wickets,Won
+130,2010-03-21,Deccan Chargers v Delhi Capitals,Cuttack,Deccan Chargers won by 10 Runs,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,10 Runs,Lost
+131,2010-03-21,Chennai Super Kings v Punjab Kings,Chennai,Punjab Kings won by tie,Chennai Super Kings,Punjab Kings,Punjab Kings,tie,Tie
+132,2010-03-22,Mumbai Indians v Kolkata Knight Riders,Mumbai,Mumbai Indians won by 7 Wickets,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,7 Wickets,Won
+133,2010-03-23,Royal Challengers Bangalore v Chennai Super Kings,Bengaluru,Royal Challengers Bangalore won by 36 Runs,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,36 Runs,Lost
+134,2010-03-24,Punjab Kings v Rajasthan Royals,Mohali,Rajasthan Royals won by 31 Runs,Punjab Kings,Rajasthan Royals,Rajasthan Royals,31 Runs,Lost
+135,2010-03-25,Royal Challengers Bangalore v Delhi Capitals,Bengaluru,Delhi Capitals won by 17 Runs,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,17 Runs,Lost
+136,2010-03-25,Mumbai Indians v Chennai Super Kings,Mumbai,Mumbai Indians won by 5 Wickets,Mumbai Indians,Chennai Super Kings,Mumbai Indians,5 Wickets,Won
+137,2010-03-26,Rajasthan Royals v Deccan Chargers,Ahmedabad,Rajasthan Royals won by 8 Wickets,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,8 Wickets,Won
+138,2010-03-27,Punjab Kings v Kolkata Knight Riders,Mohali,Kolkata Knight Riders won by 39 Runs,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,39 Runs,Lost
+139,2010-03-28,Rajasthan Royals v Chennai Super Kings,Ahmedabad,Rajasthan Royals won by 17 Runs,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,17 Runs,Lost
+140,2010-03-28,Deccan Chargers v Mumbai Indians,Mumbai,Mumbai Indians won by 41 Runs,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,41 Runs,Lost
+141,2010-03-29,Delhi Capitals v Kolkata Knight Riders,Delhi,Delhi Capitals won by 40 Runs,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,40 Runs,Lost
+142,2010-03-30,Mumbai Indians v Punjab Kings,Mumbai,Mumbai Indians won by 4 Wickets,Mumbai Indians,Punjab Kings,Mumbai Indians,4 Wickets,Won
+143,2010-03-31,Chennai Super Kings v Royal Challengers Bangalore,Chennai,Chennai Super Kings won by 5 Wickets,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,5 Wickets,Won
+144,2010-03-31,Delhi Capitals v Rajasthan Royals,Delhi,Delhi Capitals won by 67 Runs,Delhi Capitals,Rajasthan Royals,Delhi Capitals,67 Runs,Lost
+145,2010-04-01,Kolkata Knight Riders v Deccan Chargers,Kolkata,Kolkata Knight Riders won by 24 Runs,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,24 Runs,Lost
+146,2010-04-02,Punjab Kings v Royal Challengers Bangalore,Cuttack,Royal Challengers Bangalore won by 6 Wickets,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,6 Wickets,Won
+147,2010-04-03,Chennai Super Kings v Rajasthan Royals,Chennai,Chennai Super Kings won by 23 Runs,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,23 Runs,Lost
+148,2010-04-03,Mumbai Indians v Deccan Chargers,Mumbai,Mumbai Indians won by 63 Runs,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,63 Runs,Lost
+149,2010-04-04,Kolkata Knight Riders v Punjab Kings,Kolkata,Punjab Kings won by 8 Wickets,Kolkata Knight Riders,Punjab Kings,Punjab Kings,8 Wickets,Won
+150,2010-04-04,Delhi Capitals v Royal Challengers Bangalore,Delhi,Delhi Capitals won by 37 Runs,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,37 Runs,Lost
+151,2010-04-05,Deccan Chargers v Rajasthan Royals,Nagpur,Rajasthan Royals won by 2 Runs,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,2 Runs,Lost
+152,2010-04-06,Chennai Super Kings v Mumbai Indians,Chennai,Chennai Super Kings won by 24 Runs,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,24 Runs,Lost
+153,2010-04-07,Rajasthan Royals v Punjab Kings,Jaipur,Rajasthan Royals won by 9 Wickets,Rajasthan Royals,Punjab Kings,Rajasthan Royals,9 Wickets,Won
+154,2010-04-07,Kolkata Knight Riders v Delhi Capitals,Kolkata,Kolkata Knight Riders won by 14 Runs,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,14 Runs,Lost
+155,2010-04-08,Royal Challengers Bangalore v Deccan Chargers,Bengaluru,Deccan Chargers won by 7 Wickets,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,7 Wickets,Won
+156,2010-04-09,Punjab Kings v Mumbai Indians,Mohali,Punjab Kings won by 6 Wickets,Punjab Kings,Mumbai Indians,Punjab Kings,6 Wickets,Won
+157,2010-04-10,Deccan Chargers v Chennai Super Kings,Nagpur,Deccan Chargers won by 6 Wickets,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,6 Wickets,Won
+158,2010-04-10,Royal Challengers Bangalore v Kolkata Knight Riders,Bengaluru,Royal Challengers Bangalore won by 7 Wickets,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,7 Wickets,Won
+159,2010-04-11,Delhi Capitals v Punjab Kings,Delhi,Punjab Kings won by 7 Wickets,Delhi Capitals,Punjab Kings,Punjab Kings,7 Wickets,Won
+160,2010-04-11,Rajasthan Royals v Mumbai Indians,Jaipur,Mumbai Indians won by 37 Runs,Rajasthan Royals,Mumbai Indians,Mumbai Indians,37 Runs,Lost
+161,2010-04-12,Deccan Chargers v Royal Challengers Bangalore,Nagpur,Deccan Chargers won by 13 Runs,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,13 Runs,Lost
+162,2010-04-13,Mumbai Indians v Delhi Capitals,Mumbai,Mumbai Indians won by 39 Runs,Mumbai Indians,Delhi Capitals,Mumbai Indians,39 Runs,Lost
+163,2010-04-13,Chennai Super Kings v Kolkata Knight Riders,Chennai,Chennai Super Kings won by 9 Wickets,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,9 Wickets,Won
+164,2010-04-14,Rajasthan Royals v Royal Challengers Bangalore,Jaipur,Royal Challengers Bangalore won by 5 Wickets,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,5 Wickets,Won
+165,2010-04-15,Chennai Super Kings v Delhi Capitals,Chennai,Delhi Capitals won by 6 Wickets,Chennai Super Kings,Delhi Capitals,Delhi Capitals,6 Wickets,Won
+166,2010-04-16,Punjab Kings v Deccan Chargers,Dharamsala,Deccan Chargers won by 5 Wickets,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,5 Wickets,Won
+167,2010-04-17,Royal Challengers Bangalore v Mumbai Indians,Bengaluru,Mumbai Indians won by 57 Runs,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,57 Runs,Lost
+168,2010-04-17,Kolkata Knight Riders v Rajasthan Royals,Kolkata,Kolkata Knight Riders won by 8 Wickets,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,8 Wickets,Won
+169,2010-04-18,Punjab Kings v Chennai Super Kings,Dharamsala,Chennai Super Kings won by 6 Wickets,Punjab Kings,Chennai Super Kings,Chennai Super Kings,6 Wickets,Won
+170,2010-04-18,Delhi Capitals v Deccan Chargers,Delhi,Deccan Chargers won by 11 Runs,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,11 Runs,Lost
+171,2010-04-19,Kolkata Knight Riders v Mumbai Indians,Kolkata,Kolkata Knight Riders won by 9 Wickets,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,9 Wickets,Won
+172,2010-04-21,Royal Challengers Bangalore v Mumbai Indians,Mumbai,Mumbai Indians won by 35 Runs,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,35 Runs,Lost
+173,2010-04-22,Chennai Super Kings v Deccan Chargers,Mumbai,Chennai Super Kings won by 38 Runs,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,38 Runs,Lost
+174,2010-04-24,Royal Challengers Bangalore v Deccan Chargers,Mumbai,Royal Challengers Bangalore won by 9 Wickets,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,9 Wickets,Won
+175,2010-04-25,Chennai Super Kings v Mumbai Indians,Mumbai,Chennai Super Kings won by 22 Runs,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,22 Runs,Lost
+176,2011-04-08,Chennai Super Kings v Kolkata Knight Riders,Chennai,Chennai Super Kings won by 2 Runs,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2 Runs,Lost
+177,2011-04-09,Deccan Chargers v Rajasthan Royals,Hyderabad,Rajasthan Royals won by 8 Wickets,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,8 Wickets,Won
+178,2011-04-09,Kochi Tuskers Kerala v Royal Challengers Bangalore,Kochi,Royal Challengers Bangalore won by 6 Wickets,Kochi Tuskers Kerala,Royal Challengers Bangalore,Royal Challengers Bangalore,6 Wickets,Won
+179,2011-04-10,Delhi Capitals v Mumbai Indians,Delhi,Mumbai Indians won by 8 Wickets,Delhi Capitals,Mumbai Indians,Mumbai Indians,8 Wickets,Won
+180,2011-04-10,Pune Warriors v Punjab Kings,Mumbai,Pune Warriors won by 7 Wickets,Pune Warriors,Punjab Kings,Pune Warriors,7 Wickets,Won
+181,2011-04-11,Kolkata Knight Riders v Deccan Chargers,Kolkata,Kolkata Knight Riders won by 9 Runs,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,9 Runs,Lost
+182,2011-04-12,Rajasthan Royals v Delhi Capitals,Jaipur,Rajasthan Royals won by 6 Wickets,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,6 Wickets,Won
+183,2011-04-12,Royal Challengers Bangalore v Mumbai Indians,Bengaluru,Mumbai Indians won by 9 Wickets,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,9 Wickets,Won
+184,2011-04-13,Pune Warriors v Kochi Tuskers Kerala,Mumbai,Pune Warriors won by 4 Wickets,Pune Warriors,Kochi Tuskers Kerala,Pune Warriors,4 Wickets,Won
+185,2011-04-13,Punjab Kings v Chennai Super Kings,Mohali,Punjab Kings won by 6 Wickets,Punjab Kings,Chennai Super Kings,Punjab Kings,6 Wickets,Won
+186,2011-04-14,Deccan Chargers v Royal Challengers Bangalore,Hyderabad,Deccan Chargers won by 33 Runs,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,33 Runs,Lost
+187,2011-04-15,Rajasthan Royals v Kolkata Knight Riders,Jaipur,Kolkata Knight Riders won by 9 Wickets,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,9 Wickets,Won
+188,2011-04-15,Mumbai Indians v Kochi Tuskers Kerala,Cuttack,Kochi Tuskers Kerala won by 8 Wickets,Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,8 Wickets,Won
+189,2011-04-16,Chennai Super Kings v Royal Challengers Bangalore,Chennai,Chennai Super Kings won by 21 Runs,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,21 Runs,Lost
+190,2011-04-16,Deccan Chargers v Punjab Kings,Hyderabad,Punjab Kings won by 8 Wickets,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,8 Wickets,Won
+191,2011-04-17,Pune Warriors v Delhi Capitals,Mumbai,Delhi Capitals won by 3 Wickets,Pune Warriors,Delhi Capitals,Delhi Capitals,3 Wickets,Won
+192,2011-04-17,Kolkata Knight Riders v Rajasthan Royals,Kolkata,Kolkata Knight Riders won by 8 Wickets,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,8 Wickets,Won
+193,2011-04-18,Kochi Tuskers Kerala v Chennai Super Kings,Kochi,Kochi Tuskers Kerala won by 7 Wickets,Kochi Tuskers Kerala,Chennai Super Kings,Kochi Tuskers Kerala,7 Wickets,Won
+194,2011-04-19,Delhi Capitals v Deccan Chargers,Delhi,Deccan Chargers won by 16 Runs,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,16 Runs,Lost
+195,2011-04-20,Mumbai Indians v Pune Warriors,Mumbai,Mumbai Indians won by 7 Wickets,Mumbai Indians,Pune Warriors,Mumbai Indians,7 Wickets,Won
+196,2011-04-20,Kolkata Knight Riders v Kochi Tuskers Kerala,Kolkata,Kochi Tuskers Kerala won by 6 Runs,Kolkata Knight Riders,Kochi Tuskers Kerala,Kochi Tuskers Kerala,6 Runs,Lost
+197,2011-04-21,Punjab Kings v Rajasthan Royals,Mohali,Punjab Kings won by 48 Runs,Punjab Kings,Rajasthan Royals,Punjab Kings,48 Runs,Lost
+198,2011-04-22,Kolkata Knight Riders v Royal Challengers Bangalore,Kolkata,Royal Challengers Bangalore won by 9 Wickets,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,9 Wickets,Won
+199,2011-04-22,Mumbai Indians v Chennai Super Kings,Mumbai,Mumbai Indians won by 8 Runs,Mumbai Indians,Chennai Super Kings,Mumbai Indians,8 Runs,Lost
+200,2011-04-23,Delhi Capitals v Punjab Kings,Delhi,Delhi Capitals won by 29 Runs,Delhi Capitals,Punjab Kings,Delhi Capitals,29 Runs,Lost
+201,2011-04-24,Deccan Chargers v Mumbai Indians,Hyderabad,Mumbai Indians won by 37 Runs,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,37 Runs,Lost
+202,2011-04-24,Rajasthan Royals v Kochi Tuskers Kerala,Jaipur,Rajasthan Royals won by 8 Wickets,Rajasthan Royals,Kochi Tuskers Kerala,Rajasthan Royals,8 Wickets,Won
+203,2011-04-25,Chennai Super Kings v Pune Warriors,Chennai,Chennai Super Kings won by 25 Runs,Chennai Super Kings,Pune Warriors,Chennai Super Kings,25 Runs,Lost
+204,2011-04-26,Delhi Capitals v Royal Challengers Bangalore,Delhi,Royal Challengers Bangalore won by 3 Wickets,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,3 Wickets,Won
+205,2011-04-27,Pune Warriors v Chennai Super Kings,Mumbai,Chennai Super Kings won by 8 Wickets,Pune Warriors,Chennai Super Kings,Chennai Super Kings,8 Wickets,Won
+206,2011-04-27,Kochi Tuskers Kerala v Deccan Chargers,Kochi,Deccan Chargers won by 55 Runs,Kochi Tuskers Kerala,Sunrisers Hyderabad,Sunrisers Hyderabad,55 Runs,Lost
+207,2011-04-28,Delhi Capitals v Kolkata Knight Riders,Delhi,Kolkata Knight Riders won by 17 Runs,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,17 Runs,Lost
+208,2011-04-29,Rajasthan Royals v Mumbai Indians,Jaipur,Rajasthan Royals won by 7 Wickets,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,7 Wickets,Won
+209,2011-04-29,Royal Challengers Bangalore v Pune Warriors,Bengaluru,Royal Challengers Bangalore won by 26 Runs,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,26 Runs,Lost
+210,2011-04-30,Kochi Tuskers Kerala v Delhi Capitals,Kochi,Delhi Capitals won by 38 Runs,Kochi Tuskers Kerala,Delhi Capitals,Delhi Capitals,38 Runs,Lost
+211,2011-04-30,Kolkata Knight Riders v Punjab Kings,Kolkata,Kolkata Knight Riders won by 8 Wickets,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,8 Wickets,Won
+212,2011-05-01,Rajasthan Royals v Pune Warriors,Jaipur,Rajasthan Royals won by 6 Wickets,Rajasthan Royals,Pune Warriors,Rajasthan Royals,6 Wickets,Won
+213,2011-05-01,Chennai Super Kings v Deccan Chargers,Chennai,Chennai Super Kings won by 19 Runs,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,19 Runs,Lost
+214,2011-05-02,Mumbai Indians v Punjab Kings,Mumbai,Mumbai Indians won by 23 Runs,Mumbai Indians,Punjab Kings,Mumbai Indians,23 Runs,Lost
+215,2011-05-02,Delhi Capitals v Kochi Tuskers Kerala,Delhi,Kochi Tuskers Kerala won by 7 Wickets,Delhi Capitals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,7 Wickets,Won
+216,2011-05-03,Deccan Chargers v Kolkata Knight Riders,Hyderabad,Kolkata Knight Riders won by 20 Runs,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,20 Runs,Lost
+217,2011-05-04,Chennai Super Kings v Rajasthan Royals,Chennai,Chennai Super Kings won by 8 Wickets,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,8 Wickets,Won
+218,2011-05-04,Pune Warriors v Mumbai Indians,Mumbai,Mumbai Indians won by 21 Runs,Pune Warriors,Mumbai Indians,Mumbai Indians,21 Runs,Lost
+219,2011-05-05,Kochi Tuskers Kerala v Kolkata Knight Riders,Kochi,Kochi Tuskers Kerala won by 17 Runs,Kochi Tuskers Kerala,Kolkata Knight Riders,Kochi Tuskers Kerala,17 Runs,Lost
+220,2011-05-05,Deccan Chargers v Delhi Capitals,Hyderabad,Delhi Capitals won by 4 Wickets,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,4 Wickets,Won
+221,2011-05-06,Royal Challengers Bangalore v Punjab Kings,Bengaluru,Royal Challengers Bangalore won by 85 Runs,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,85 Runs,Lost
+222,2011-05-07,Kolkata Knight Riders v Chennai Super Kings,Kolkata,Kolkata Knight Riders won by 10 Runs [D/L],Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,10 Runs [D/L],Lost
+223,2011-05-07,Mumbai Indians v Delhi Capitals,Mumbai,Mumbai Indians won by 32 Runs,Mumbai Indians,Delhi Capitals,Mumbai Indians,32 Runs,Lost
+224,2011-05-08,Royal Challengers Bangalore v Kochi Tuskers Kerala,Bengaluru,Royal Challengers Bangalore won by 9 Wickets,Royal Challengers Bangalore,Kochi Tuskers Kerala,Royal Challengers Bangalore,9 Wickets,Won
+225,2011-05-08,Punjab Kings v Pune Warriors,Mohali,Pune Warriors won by 5 Wickets,Punjab Kings,Pune Warriors,Pune Warriors,5 Wickets,Won
+226,2011-05-09,Rajasthan Royals v Chennai Super Kings,Jaipur,Chennai Super Kings won by 63 Runs,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,63 Runs,Lost
+227,2011-05-10,Deccan Chargers v Pune Warriors,Hyderabad,Pune Warriors won by 6 Wickets,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,6 Wickets,Won
+228,2011-05-10,Punjab Kings v Mumbai Indians,Mohali,Punjab Kings won by 76 Runs,Punjab Kings,Mumbai Indians,Punjab Kings,76 Runs,Lost
+229,2011-05-11,Rajasthan Royals v Royal Challengers Bangalore,Jaipur,Royal Challengers Bangalore won by 9 Wickets,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,9 Wickets,Won
+230,2011-05-12,Chennai Super Kings v Delhi Capitals,Chennai,Chennai Super Kings won by 18 Runs,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,18 Runs,Lost
+231,2011-05-13,Kochi Tuskers Kerala v Punjab Kings,Indore,Punjab Kings won by 6 Wickets,Kochi Tuskers Kerala,Punjab Kings,Punjab Kings,6 Wickets,Won
+232,2011-05-14,Royal Challengers Bangalore v Kolkata Knight Riders,Bengaluru,Royal Challengers Bangalore won by 4 Wickets [D/L],Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,4 Wickets [D/L],Won
+233,2011-05-14,Mumbai Indians v Deccan Chargers,Mumbai,Deccan Chargers won by 10 Runs,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,10 Runs,Lost
+234,2011-05-15,Punjab Kings v Delhi Capitals,Dharamsala,Punjab Kings won by 29 Runs,Punjab Kings,Delhi Capitals,Punjab Kings,29 Runs,Lost
+235,2011-05-15,Kochi Tuskers Kerala v Rajasthan Royals,Indore,Kochi Tuskers Kerala won by 8 Wickets,Kochi Tuskers Kerala,Rajasthan Royals,Kochi Tuskers Kerala,8 Wickets,Won
+236,2011-05-16,Pune Warriors v Deccan Chargers,Mumbai,Deccan Chargers won by 6 Wickets,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,6 Wickets,Won
+237,2011-05-17,Punjab Kings v Royal Challengers Bangalore,Dharamsala,Punjab Kings won by 111 Runs,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,111 Runs,Lost
+238,2011-05-18,Chennai Super Kings v Kochi Tuskers Kerala,Chennai,Chennai Super Kings won by 11 Runs,Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,11 Runs,Lost
+239,2011-05-19,Pune Warriors v Kolkata Knight Riders,Mumbai,Kolkata Knight Riders won by 7 Wickets,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,7 Wickets,Won
+240,2011-05-20,Mumbai Indians v Rajasthan Royals,Mumbai,Rajasthan Royals won by 10 Wickets,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,10 Wickets,Won
+241,2011-05-21,Punjab Kings v Deccan Chargers,Dharamsala,Deccan Chargers won by 82 Runs,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,82 Runs,Lost
+242,2011-05-22,Royal Challengers Bangalore v Chennai Super Kings,Bengaluru,Royal Challengers Bangalore won by 8 Wickets,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,8 Wickets,Won
+243,2011-05-22,Kolkata Knight Riders v Mumbai Indians,Kolkata,Mumbai Indians won by 5 Wickets,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,5 Wickets,Won
+244,2011-05-24,Royal Challengers Bangalore v Chennai Super Kings,Mumbai,Chennai Super Kings won by 6 Wickets,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,6 Wickets,Won
+245,2011-05-25,Kolkata Knight Riders v Mumbai Indians,Mumbai,Mumbai Indians won by 4 Wickets,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,4 Wickets,Won
+246,2011-05-27,Royal Challengers Bangalore v Mumbai Indians,Chennai,Royal Challengers Bangalore won by 43 Runs,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,43 Runs,Lost
+247,2011-05-28,Chennai Super Kings v Royal Challengers Bangalore,Chennai,Chennai Super Kings won by 58 Runs,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,58 Runs,Lost
+248,2012-04-04,Chennai Super Kings v Mumbai Indians,Chennai,Mumbai Indians won by 8 Wickets,Chennai Super Kings,Mumbai Indians,Mumbai Indians,8 Wickets,Won
+249,2012-04-05,Kolkata Knight Riders v Delhi Capitals,Kolkata,Delhi Capitals won by 8 Wickets,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,8 Wickets,Won
+250,2012-04-06,Mumbai Indians v Pune Warriors,Mumbai,Pune Warriors won by 28 Runs,Mumbai Indians,Pune Warriors,Pune Warriors,28 Runs,Lost
+251,2012-04-06,Rajasthan Royals v Punjab Kings,Jaipur,Rajasthan Royals won by 31 Runs,Rajasthan Royals,Punjab Kings,Rajasthan Royals,31 Runs,Lost
+252,2012-04-07,Royal Challengers Bangalore v Delhi Capitals,Bengaluru,Royal Challengers Bangalore won by 20 Runs,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,20 Runs,Lost
+253,2012-04-07,Deccan Chargers v Chennai Super Kings,Visakhapatnam,Chennai Super Kings won by 74 Runs,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,74 Runs,Lost
+254,2012-04-08,Rajasthan Royals v Kolkata Knight Riders,Jaipur,Rajasthan Royals won by 22 Runs,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,22 Runs,Lost
+255,2012-04-08,Pune Warriors v Punjab Kings,Pune,Pune Warriors won by 22 Runs,Pune Warriors,Punjab Kings,Pune Warriors,22 Runs,Lost
+256,2012-04-09,Deccan Chargers v Mumbai Indians,Visakhapatnam,Mumbai Indians won by 5 Wickets,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,5 Wickets,Won
+257,2012-04-10,Royal Challengers Bangalore v Kolkata Knight Riders,Bengaluru,Kolkata Knight Riders won by 42 Runs,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,42 Runs,Lost
+258,2012-04-10,Delhi Capitals v Chennai Super Kings,Delhi,Delhi Capitals won by 8 Wickets,Delhi Capitals,Chennai Super Kings,Delhi Capitals,8 Wickets,Won
+259,2012-04-11,Mumbai Indians v Rajasthan Royals,Mumbai,Mumbai Indians won by 27 Runs,Mumbai Indians,Rajasthan Royals,Mumbai Indians,27 Runs,Lost
+260,2012-04-12,Chennai Super Kings v Royal Challengers Bangalore,Chennai,Chennai Super Kings won by 5 Wickets,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,5 Wickets,Won
+261,2012-04-12,Punjab Kings v Pune Warriors,Mohali,Punjab Kings won by 7 Wickets,Punjab Kings,Pune Warriors,Punjab Kings,7 Wickets,Won
+262,2012-04-13,Kolkata Knight Riders v Rajasthan Royals,Kolkata,Kolkata Knight Riders won by 5 Wickets,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,5 Wickets,Won
+263,2012-04-14,Pune Warriors v Chennai Super Kings,Pune,Pune Warriors won by 7 Wickets,Pune Warriors,Chennai Super Kings,Pune Warriors,7 Wickets,Won
+264,2012-04-15,Kolkata Knight Riders v Punjab Kings,Kolkata,Punjab Kings won by 2 Runs,Kolkata Knight Riders,Punjab Kings,Punjab Kings,2 Runs,Lost
+265,2012-04-15,Royal Challengers Bangalore v Rajasthan Royals,Bengaluru,Rajasthan Royals won by 59 Runs,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,59 Runs,Lost
+266,2012-04-16,Mumbai Indians v Delhi Capitals,Mumbai,Delhi Capitals won by 7 Wickets,Mumbai Indians,Delhi Capitals,Delhi Capitals,7 Wickets,Won
+267,2012-04-17,Rajasthan Royals v Deccan Chargers,Jaipur,Rajasthan Royals won by 5 Wickets,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,5 Wickets,Won
+268,2012-04-17,Royal Challengers Bangalore v Pune Warriors,Bengaluru,Royal Challengers Bangalore won by 6 Wickets,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,6 Wickets,Won
+269,2012-04-18,Punjab Kings v Kolkata Knight Riders,Mohali,Kolkata Knight Riders won by 8 Wickets,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,8 Wickets,Won
+270,2012-04-19,Delhi Capitals v Deccan Chargers,Delhi,Delhi Capitals won by 5 Wickets,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,5 Wickets,Won
+271,2012-04-19,Chennai Super Kings v Pune Warriors,Chennai,Chennai Super Kings won by 13 Runs,Chennai Super Kings,Pune Warriors,Chennai Super Kings,13 Runs,Lost
+272,2012-04-20,Punjab Kings v Royal Challengers Bangalore,Mohali,Royal Challengers Bangalore won by 5 Wickets,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,5 Wickets,Won
+273,2012-04-21,Chennai Super Kings v Rajasthan Royals,Chennai,Chennai Super Kings won by 7 Wickets,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,7 Wickets,Won
+274,2012-04-21,Delhi Capitals v Pune Warriors,Delhi,Pune Warriors won by 20 Runs,Delhi Capitals,Pune Warriors,Pune Warriors,20 Runs,Lost
+275,2012-04-22,Mumbai Indians v Punjab Kings,Mumbai,Punjab Kings won by 6 Wickets,Mumbai Indians,Punjab Kings,Punjab Kings,6 Wickets,Won
+276,2012-04-22,Deccan Chargers v Kolkata Knight Riders,Cuttack,Kolkata Knight Riders won by 5 Wickets,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,5 Wickets,Won
+277,2012-04-23,Rajasthan Royals v Royal Challengers Bangalore,Jaipur,Royal Challengers Bangalore won by 46 Runs,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,46 Runs,Lost
+278,2012-04-24,Pune Warriors v Delhi Capitals,Pune,Delhi Capitals won by 8 Wickets,Pune Warriors,Delhi Capitals,Delhi Capitals,8 Wickets,Won
+279,2012-04-25,Punjab Kings v Mumbai Indians,Mohali,Mumbai Indians won by 4 Wickets,Punjab Kings,Mumbai Indians,Mumbai Indians,4 Wickets,Won
+280,2012-04-26,Pune Warriors v Deccan Chargers,Pune,Deccan Chargers won by 18 Runs,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,18 Runs,Lost
+281,2012-04-27,Delhi Capitals v Mumbai Indians,Delhi,Delhi Capitals won by 37 Runs,Delhi Capitals,Mumbai Indians,Delhi Capitals,37 Runs,Lost
+282,2012-04-28,Chennai Super Kings v Punjab Kings,Chennai,Punjab Kings won by 7 Runs,Chennai Super Kings,Punjab Kings,Punjab Kings,7 Runs,Lost
+283,2012-04-28,Kolkata Knight Riders v Royal Challengers Bangalore,Kolkata,Kolkata Knight Riders won by 47 Runs,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,47 Runs,Lost
+284,2012-04-29,Delhi Capitals v Rajasthan Royals,Delhi,Delhi Capitals won by 1 Run,Delhi Capitals,Rajasthan Royals,Delhi Capitals,1 Run,Won
+285,2012-04-29,Mumbai Indians v Deccan Chargers,Mumbai,Mumbai Indians won by 5 Wickets,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,5 Wickets,Won
+286,2012-04-30,Chennai Super Kings v Kolkata Knight Riders,Chennai,Kolkata Knight Riders won by 5 Wickets,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,5 Wickets,Won
+287,2012-05-01,Deccan Chargers v Pune Warriors,Cuttack,Deccan Chargers won by 13 Runs,Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,13 Runs,Lost
+288,2012-05-01,Rajasthan Royals v Delhi Capitals,Jaipur,Delhi Capitals won by 6 Wickets,Rajasthan Royals,Delhi Capitals,Delhi Capitals,6 Wickets,Won
+289,2012-05-02,Royal Challengers Bangalore v Punjab Kings,Bengaluru,Punjab Kings won by 4 Wickets,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,4 Wickets,Won
+290,2012-05-03,Pune Warriors v Mumbai Indians,Pune,Mumbai Indians won by 1 Run,Pune Warriors,Mumbai Indians,Mumbai Indians,1 Run,Won
+291,2012-05-04,Chennai Super Kings v Deccan Chargers,Chennai,Chennai Super Kings won by 10 Runs,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,10 Runs,Lost
+292,2012-05-05,Kolkata Knight Riders v Pune Warriors,Kolkata,Kolkata Knight Riders won by 7 Runs,Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,7 Runs,Lost
+293,2012-05-05,Punjab Kings v Rajasthan Royals,Mohali,Rajasthan Royals won by 43 Runs,Punjab Kings,Rajasthan Royals,Rajasthan Royals,43 Runs,Lost
+294,2012-05-06,Mumbai Indians v Chennai Super Kings,Mumbai,Mumbai Indians won by 2 Wickets,Mumbai Indians,Chennai Super Kings,Mumbai Indians,2 Wickets,Won
+295,2012-05-06,Royal Challengers Bangalore v Deccan Chargers,Bengaluru,Royal Challengers Bangalore won by 5 Wickets,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,5 Wickets,Won
+296,2012-05-07,Delhi Capitals v Kolkata Knight Riders,Delhi,Kolkata Knight Riders won by 6 Wickets,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,6 Wickets,Won
+297,2012-05-08,Pune Warriors v Rajasthan Royals,Pune,Rajasthan Royals won by 7 Wickets,Pune Warriors,Rajasthan Royals,Rajasthan Royals,7 Wickets,Won
+298,2012-05-08,Deccan Chargers v Punjab Kings,Hyderabad,Punjab Kings won by 25 Runs,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,25 Runs,Lost
+299,2012-05-09,Mumbai Indians v Royal Challengers Bangalore,Mumbai,Royal Challengers Bangalore won by 9 Wickets,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,9 Wickets,Won
+300,2012-05-10,Deccan Chargers v Delhi Capitals,Hyderabad,Delhi Capitals won by 9 Wickets,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,9 Wickets,Won
+301,2012-05-10,Rajasthan Royals v Chennai Super Kings,Jaipur,Chennai Super Kings won by 4 Wickets,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,4 Wickets,Won
+302,2012-05-11,Pune Warriors v Royal Challengers Bangalore,Pune,Royal Challengers Bangalore won by 35 Runs,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,35 Runs,Lost
+303,2012-05-12,Kolkata Knight Riders v Mumbai Indians,Kolkata,Mumbai Indians won by 27 Runs,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,27 Runs,Lost
+304,2012-05-12,Chennai Super Kings v Delhi Capitals,Chennai,Chennai Super Kings won by 9 Wickets,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,9 Wickets,Won
+305,2012-05-13,Rajasthan Royals v Pune Warriors,Jaipur,Rajasthan Royals won by 45 Runs,Rajasthan Royals,Pune Warriors,Rajasthan Royals,45 Runs,Lost
+306,2012-05-13,Punjab Kings v Deccan Chargers,Mohali,Punjab Kings won by 4 Wickets,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,4 Wickets,Won
+307,2012-05-14,Royal Challengers Bangalore v Mumbai Indians,Bengaluru,Mumbai Indians won by 5 Wickets,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,5 Wickets,Won
+308,2012-05-14,Kolkata Knight Riders v Chennai Super Kings,Kolkata,Chennai Super Kings won by 5 Wickets,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,5 Wickets,Won
+309,2012-05-15,Delhi Capitals v Punjab Kings,Delhi,Delhi Capitals won by 5 Wickets,Delhi Capitals,Punjab Kings,Delhi Capitals,5 Wickets,Won
+310,2012-05-16,Mumbai Indians v Kolkata Knight Riders,Mumbai,Kolkata Knight Riders won by 32 Runs,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,32 Runs,Lost
+311,2012-05-17,Punjab Kings v Chennai Super Kings,Dharamsala,Punjab Kings won by 6 Wickets,Punjab Kings,Chennai Super Kings,Punjab Kings,6 Wickets,Won
+312,2012-05-17,Delhi Capitals v Royal Challengers Bangalore,Delhi,Royal Challengers Bangalore won by 21 Runs,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,21 Runs,Lost
+313,2012-05-18,Deccan Chargers v Rajasthan Royals,Hyderabad,Deccan Chargers won by 5 Wickets,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,5 Wickets,Won
+314,2012-05-19,Punjab Kings v Delhi Capitals,Dharamsala,Delhi Capitals won by 6 Wickets,Punjab Kings,Delhi Capitals,Delhi Capitals,6 Wickets,Won
+315,2012-05-19,Pune Warriors v Kolkata Knight Riders,Pune,Kolkata Knight Riders won by 34 Runs,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,34 Runs,Lost
+316,2012-05-20,Deccan Chargers v Royal Challengers Bangalore,Hyderabad,Deccan Chargers won by 9 Runs,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,9 Runs,Lost
+317,2012-05-20,Rajasthan Royals v Mumbai Indians,Jaipur,Mumbai Indians won by 10 Wickets,Rajasthan Royals,Mumbai Indians,Mumbai Indians,10 Wickets,Won
+318,2012-05-22,Delhi Capitals v Kolkata Knight Riders,Pune,Kolkata Knight Riders won by 18 Runs,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,18 Runs,Lost
+319,2012-05-23,Chennai Super Kings v Mumbai Indians,Bengaluru,Chennai Super Kings won by 3 Runs,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,3 Runs,Lost
+320,2012-05-25,Delhi Capitals v Chennai Super Kings,Chennai,Chennai Super Kings won by 86 Runs,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,86 Runs,Lost
+321,2012-05-27,Kolkata Knight Riders v Chennai Super Kings,Chennai,Kolkata Knight Riders won by 5 Wickets,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,5 Wickets,Won
+322,2013-04-03,Kolkata Knight Riders v Delhi Capitals,Kolkata,Kolkata Knight Riders won by 6 Wickets,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,6 Wickets,Won
+323,2013-04-04,Royal Challengers Bangalore v Mumbai Indians,Bengaluru,Royal Challengers Bangalore won by 2 Runs,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,2 Runs,Lost
+324,2013-04-05,Sunrisers Hyderabad v Pune Warriors,Hyderabad,Sunrisers Hyderabad won by 22 Runs,Sunrisers Hyderabad,Pune Warriors,Sunrisers Hyderabad,22 Runs,Lost
+325,2013-04-06,Delhi Capitals v Rajasthan Royals,Delhi,Rajasthan Royals won by 5 Runs,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,5 Runs,Lost
+326,2013-04-06,Chennai Super Kings v Mumbai Indians,Chennai,Mumbai Indians won by 9 Runs,Chennai Super Kings,Mumbai Indians,Mumbai Indians,9 Runs,Lost
+327,2013-04-07,Pune Warriors v Punjab Kings,Pune,Punjab Kings won by 8 Wickets,Pune Warriors,Punjab Kings,Punjab Kings,8 Wickets,Won
+328,2013-04-07,Sunrisers Hyderabad v Royal Challengers Bangalore,Hyderabad,Royal Challengers Bangalore won by tie,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,tie,Tie
+329,2013-04-08,Rajasthan Royals v Kolkata Knight Riders,Jaipur,Rajasthan Royals won by 19 Runs,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,19 Runs,Lost
+330,2013-04-09,Mumbai Indians v Delhi Capitals,Mumbai,Mumbai Indians won by 44 Runs,Mumbai Indians,Delhi Capitals,Mumbai Indians,44 Runs,Lost
+331,2013-04-09,Royal Challengers Bangalore v Sunrisers Hyderabad,Bengaluru,Royal Challengers Bangalore won by 7 Wickets,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,7 Wickets,Won
+332,2013-04-10,Punjab Kings v Chennai Super Kings,Mohali,Chennai Super Kings won by 10 Wickets,Punjab Kings,Chennai Super Kings,Chennai Super Kings,10 Wickets,Won
+333,2013-04-11,Royal Challengers Bangalore v Kolkata Knight Riders,Bengaluru,Royal Challengers Bangalore won by 8 Wickets,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,8 Wickets,Won
+334,2013-04-11,Pune Warriors v Rajasthan Royals,Pune,Pune Warriors won by 7 Wickets,Pune Warriors,Rajasthan Royals,Pune Warriors,7 Wickets,Won
+335,2013-04-12,Delhi Capitals v Sunrisers Hyderabad,Delhi,Sunrisers Hyderabad won by 3 Wickets,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,3 Wickets,Won
+336,2013-04-13,Mumbai Indians v Pune Warriors,Mumbai,Mumbai Indians won by 41 Runs,Mumbai Indians,Pune Warriors,Mumbai Indians,41 Runs,Lost
+337,2013-04-13,Chennai Super Kings v Royal Challengers Bangalore,Chennai,Chennai Super Kings won by 4 Wickets,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,4 Wickets,Won
+338,2013-04-14,Kolkata Knight Riders v Sunrisers Hyderabad,Kolkata,Kolkata Knight Riders won by 48 Runs,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,48 Runs,Lost
+339,2013-04-14,Rajasthan Royals v Punjab Kings,Jaipur,Rajasthan Royals won by 6 Wickets,Rajasthan Royals,Punjab Kings,Rajasthan Royals,6 Wickets,Won
+340,2013-04-15,Chennai Super Kings v Pune Warriors,Chennai,Pune Warriors won by 24 Runs,Chennai Super Kings,Pune Warriors,Pune Warriors,24 Runs,Lost
+341,2013-04-16,Punjab Kings v Kolkata Knight Riders,Mohali,Punjab Kings won by 4 Runs,Punjab Kings,Kolkata Knight Riders,Punjab Kings,4 Runs,Lost
+342,2013-04-16,Royal Challengers Bangalore v Delhi Capitals,Bengaluru,Delhi Capitals won by tie,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,tie,Tie
+343,2013-04-17,Pune Warriors v Sunrisers Hyderabad,Pune,Sunrisers Hyderabad won by 11 Runs,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,11 Runs,Lost
+344,2013-04-17,Rajasthan Royals v Mumbai Indians,Jaipur,Rajasthan Royals won by 87 Runs,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,87 Runs,Lost
+345,2013-04-18,Chennai Super Kings v Delhi Capitals,Delhi,Chennai Super Kings won by 86 Runs,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,86 Runs,Lost
+346,2013-04-19,Sunrisers Hyderabad v Punjab Kings,Hyderabad,Sunrisers Hyderabad won by 5 Wickets,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5 Wickets,Won
+347,2013-04-20,Kolkata Knight Riders v Chennai Super Kings,Kolkata,Chennai Super Kings won by 4 Wickets,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,4 Wickets,Won
+348,2013-04-20,Royal Challengers Bangalore v Rajasthan Royals,Bengaluru,Royal Challengers Bangalore won by 7 Wickets,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,7 Wickets,Won
+349,2013-04-21,Delhi Capitals v Mumbai Indians,Delhi,Delhi Capitals won by 9 Wickets,Delhi Capitals,Mumbai Indians,Delhi Capitals,9 Wickets,Won
+350,2013-04-21,Punjab Kings v Pune Warriors,Mohali,Punjab Kings won by 7 Wickets,Punjab Kings,Pune Warriors,Punjab Kings,7 Wickets,Won
+351,2013-04-22,Chennai Super Kings v Rajasthan Royals,Chennai,Chennai Super Kings won by 5 Wickets,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,5 Wickets,Won
+352,2013-04-23,Royal Challengers Bangalore v Pune Warriors,Bengaluru,Royal Challengers Bangalore won by 130 Runs,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,130 Runs,Lost
+353,2013-04-23,Delhi Capitals v Punjab Kings,Delhi,Punjab Kings won by 5 Wickets,Delhi Capitals,Punjab Kings,Punjab Kings,5 Wickets,Won
+354,2013-04-24,Kolkata Knight Riders v Mumbai Indians,Kolkata,Mumbai Indians won by 5 Wickets,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,5 Wickets,Won
+355,2013-04-25,Chennai Super Kings v Sunrisers Hyderabad,Chennai,Chennai Super Kings won by 5 Wickets,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,5 Wickets,Won
+356,2013-04-26,Kolkata Knight Riders v Punjab Kings,Kolkata,Kolkata Knight Riders won by 6 Wickets,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,6 Wickets,Won
+357,2013-04-27,Sunrisers Hyderabad v Rajasthan Royals,Jaipur,Rajasthan Royals won by 8 Wickets,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,8 Wickets,Won
+358,2013-04-27,Mumbai Indians v Royal Challengers Bangalore,Mumbai,Mumbai Indians won by 58 Runs,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,58 Runs,Lost
+359,2013-04-28,Chennai Super Kings v Kolkata Knight Riders,Chennai,Chennai Super Kings won by 14 Runs,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,14 Runs,Lost
+360,2013-04-28,Delhi Capitals v Pune Warriors,Raipur,Delhi Capitals won by 15 Runs,Delhi Capitals,Pune Warriors,Delhi Capitals,15 Runs,Lost
+361,2013-04-29,Rajasthan Royals v Royal Challengers Bangalore,Jaipur,Rajasthan Royals won by 4 Wickets,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,4 Wickets,Won
+362,2013-04-29,Mumbai Indians v Punjab Kings,Mumbai,Mumbai Indians won by 4 Runs,Mumbai Indians,Punjab Kings,Mumbai Indians,4 Runs,Lost
+363,2013-04-30,Chennai Super Kings v Pune Warriors,Pune,Chennai Super Kings won by 37 Runs,Chennai Super Kings,Pune Warriors,Chennai Super Kings,37 Runs,Lost
+364,2013-05-01,Mumbai Indians v Sunrisers Hyderabad,Hyderabad,Sunrisers Hyderabad won by 7 Wickets,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,7 Wickets,Won
+365,2013-05-01,Delhi Capitals v Kolkata Knight Riders,Raipur,Delhi Capitals won by 7 Wickets,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,7 Wickets,Won
+366,2013-05-02,Chennai Super Kings v Punjab Kings,Chennai,Chennai Super Kings won by 15 Runs,Chennai Super Kings,Punjab Kings,Chennai Super Kings,15 Runs,Lost
+367,2013-05-02,Pune Warriors v Royal Challengers Bangalore,Pune,Royal Challengers Bangalore won by 17 Runs,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,17 Runs,Lost
+368,2013-05-03,Kolkata Knight Riders v Rajasthan Royals,Kolkata,Kolkata Knight Riders won by 8 Wickets,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,8 Wickets,Won
+369,2013-05-04,Sunrisers Hyderabad v Delhi Capitals,Hyderabad,Sunrisers Hyderabad won by 6 Wickets,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,6 Wickets,Won
+370,2013-05-05,Mumbai Indians v Chennai Super Kings,Mumbai,Mumbai Indians won by 60 Runs,Mumbai Indians,Chennai Super Kings,Mumbai Indians,60 Runs,Lost
+371,2013-05-05,Rajasthan Royals v Pune Warriors,Jaipur,Rajasthan Royals won by 5 Wickets,Rajasthan Royals,Pune Warriors,Rajasthan Royals,5 Wickets,Won
+372,2013-05-06,Punjab Kings v Royal Challengers Bangalore,Mohali,Punjab Kings won by 6 Wickets,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,6 Wickets,Won
+373,2013-05-07,Rajasthan Royals v Delhi Capitals,Jaipur,Rajasthan Royals won by 9 Wickets,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,9 Wickets,Won
+374,2013-05-07,Mumbai Indians v Kolkata Knight Riders,Mumbai,Mumbai Indians won by 65 Runs,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,65 Runs,Lost
+375,2013-05-08,Sunrisers Hyderabad v Chennai Super Kings,Hyderabad,Chennai Super Kings won by 77 Runs,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,77 Runs,Lost
+376,2013-05-09,Punjab Kings v Rajasthan Royals,Mohali,Rajasthan Royals won by 8 Wickets,Punjab Kings,Rajasthan Royals,Rajasthan Royals,8 Wickets,Won
+377,2013-05-09,Pune Warriors v Kolkata Knight Riders,Pune,Kolkata Knight Riders won by 46 Runs,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,46 Runs,Lost
+378,2013-05-10,Royal Challengers Bangalore v Delhi Capitals,Delhi,Royal Challengers Bangalore won by 4 Runs,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,4 Runs,Lost
+379,2013-05-11,Pune Warriors v Mumbai Indians,Pune,Mumbai Indians won by 5 Wickets,Pune Warriors,Mumbai Indians,Mumbai Indians,5 Wickets,Won
+380,2013-05-11,Punjab Kings v Sunrisers Hyderabad,Mohali,Sunrisers Hyderabad won by 30 Runs,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,30 Runs,Lost
+381,2013-05-12,Kolkata Knight Riders v Royal Challengers Bangalore,Ranchi,Kolkata Knight Riders won by 5 Wickets,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,5 Wickets,Won
+382,2013-05-12,Rajasthan Royals v Chennai Super Kings,Jaipur,Rajasthan Royals won by 5 Wickets,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,5 Wickets,Won
+383,2013-05-13,Mumbai Indians v Sunrisers Hyderabad,Mumbai,Mumbai Indians won by 7 Wickets,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,7 Wickets,Won
+384,2013-05-14,Royal Challengers Bangalore v Punjab Kings,Bengaluru,Punjab Kings won by 7 Wickets,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,7 Wickets,Won
+385,2013-05-14,Chennai Super Kings v Delhi Capitals,Chennai,Chennai Super Kings won by 33 Runs,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,33 Runs,Lost
+386,2013-05-15,Kolkata Knight Riders v Pune Warriors,Ranchi,Pune Warriors won by 7 Runs,Kolkata Knight Riders,Pune Warriors,Pune Warriors,7 Runs,Lost
+387,2013-05-15,Mumbai Indians v Rajasthan Royals,Mumbai,Mumbai Indians won by 14 Runs,Mumbai Indians,Rajasthan Royals,Mumbai Indians,14 Runs,Lost
+388,2013-05-16,Punjab Kings v Delhi Capitals,Dharamsala,Punjab Kings won by 7 Runs,Punjab Kings,Delhi Capitals,Punjab Kings,7 Runs,Lost
+389,2013-05-17,Sunrisers Hyderabad v Rajasthan Royals,Hyderabad,Sunrisers Hyderabad won by 23 Runs,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,23 Runs,Lost
+390,2013-05-18,Punjab Kings v Mumbai Indians,Dharamsala,Punjab Kings won by 50 Runs,Punjab Kings,Mumbai Indians,Punjab Kings,50 Runs,Lost
+391,2013-05-18,Royal Challengers Bangalore v Chennai Super Kings,Bengaluru,Royal Challengers Bangalore won by 24 Runs,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,24 Runs,Lost
+392,2013-05-19,Pune Warriors v Delhi Capitals,Pune,Pune Warriors won by 38 Runs,Pune Warriors,Delhi Capitals,Pune Warriors,38 Runs,Lost
+393,2013-05-19,Sunrisers Hyderabad v Kolkata Knight Riders,Hyderabad,Sunrisers Hyderabad won by 5 Wickets,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,5 Wickets,Won
+394,2013-05-21,Chennai Super Kings v Mumbai Indians,Delhi,Chennai Super Kings won by 48 Runs,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,48 Runs,Lost
+395,2013-05-22,Rajasthan Royals v Sunrisers Hyderabad,Delhi,Rajasthan Royals won by 4 Wickets,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,4 Wickets,Won
+396,2013-05-24,Mumbai Indians v Rajasthan Royals,Kolkata,Mumbai Indians won by 4 Wickets,Mumbai Indians,Rajasthan Royals,Mumbai Indians,4 Wickets,Won
+397,2013-05-26,Chennai Super Kings v Mumbai Indians,Kolkata,Mumbai Indians won by 23 Runs,Chennai Super Kings,Mumbai Indians,Mumbai Indians,23 Runs,Lost
+398,2014-04-16,Kolkata Knight Riders v Mumbai Indians,Abu Dhabi,Kolkata Knight Riders won by 41 Runs,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,41 Runs,Lost
+399,2014-04-17,Royal Challengers Bangalore v Delhi Capitals,Sharjah,Royal Challengers Bangalore won by 8 Wickets,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,8 Wickets,Won
+400,2014-04-18,Chennai Super Kings v Punjab Kings,Abu Dhabi,Punjab Kings won by 6 Wickets,Chennai Super Kings,Punjab Kings,Punjab Kings,6 Wickets,Won
+401,2014-04-18,Sunrisers Hyderabad v Rajasthan Royals,Abu Dhabi,Rajasthan Royals won by 4 Wickets,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,4 Wickets,Won
+402,2014-04-19,Mumbai Indians v Royal Challengers Bangalore,Dubai,Royal Challengers Bangalore won by 7 Wickets,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,7 Wickets,Won
+403,2014-04-19,Kolkata Knight Riders v Delhi Capitals,Dubai,Delhi Capitals won by 4 Wickets,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,4 Wickets,Won
+404,2014-04-20,Rajasthan Royals v Punjab Kings,Sharjah,Punjab Kings won by 7 Wickets,Rajasthan Royals,Punjab Kings,Punjab Kings,7 Wickets,Won
+405,2014-04-21,Chennai Super Kings v Delhi Capitals,Abu Dhabi,Chennai Super Kings won by 93 Runs,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,93 Runs,Lost
+406,2014-04-22,Punjab Kings v Sunrisers Hyderabad,Sharjah,Punjab Kings won by 72 Runs,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,72 Runs,Lost
+407,2014-04-23,Chennai Super Kings v Rajasthan Royals,Dubai,Chennai Super Kings won by 7 Runs,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,7 Runs,Lost
+408,2014-04-24,Royal Challengers Bangalore v Kolkata Knight Riders,Sharjah,Kolkata Knight Riders won by 2 Runs,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,2 Runs,Lost
+409,2014-04-25,Sunrisers Hyderabad v Delhi Capitals,Dubai,Sunrisers Hyderabad won by 4 Runs,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,4 Runs,Lost
+410,2014-04-25,Chennai Super Kings v Mumbai Indians,Dubai,Chennai Super Kings won by 7 Wickets,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,7 Wickets,Won
+411,2014-04-26,Royal Challengers Bangalore v Rajasthan Royals,Abu Dhabi,Rajasthan Royals won by 6 Wickets,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,6 Wickets,Won
+412,2014-04-26,Kolkata Knight Riders v Punjab Kings,Abu Dhabi,Punjab Kings won by 23 Runs,Kolkata Knight Riders,Punjab Kings,Punjab Kings,23 Runs,Lost
+413,2014-04-27,Delhi Capitals v Mumbai Indians,Sharjah,Delhi Capitals won by 6 Wickets,Delhi Capitals,Mumbai Indians,Delhi Capitals,6 Wickets,Won
+414,2014-04-27,Sunrisers Hyderabad v Chennai Super Kings,Sharjah,Chennai Super Kings won by 5 Wickets,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,5 Wickets,Won
+415,2014-04-28,Punjab Kings v Royal Challengers Bangalore,Dubai,Punjab Kings won by 5 Wickets,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,5 Wickets,Won
+416,2014-04-29,Kolkata Knight Riders v Rajasthan Royals,Abu Dhabi,Rajasthan Royals won by Boundary Count,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Boundary Count,Lost
+417,2014-04-30,Mumbai Indians v Sunrisers Hyderabad,Dubai,Sunrisers Hyderabad won by 15 Runs,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,15 Runs,Lost
+418,2014-05-02,Chennai Super Kings v Kolkata Knight Riders,Ranchi,Chennai Super Kings won by 34 Runs,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,34 Runs,Lost
+419,2014-05-03,Mumbai Indians v Punjab Kings,Mumbai,Mumbai Indians won by 5 Wickets,Mumbai Indians,Punjab Kings,Mumbai Indians,5 Wickets,Won
+420,2014-05-03,Delhi Capitals v Rajasthan Royals,Delhi,Rajasthan Royals won by 7 Wickets,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,7 Wickets,Won
+421,2014-05-04,Royal Challengers Bangalore v Sunrisers Hyderabad,Bengaluru,Royal Challengers Bangalore won by 4 Wickets,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,4 Wickets,Won
+422,2014-05-05,Rajasthan Royals v Kolkata Knight Riders,Ahmedabad,Rajasthan Royals won by 10 Runs,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,10 Runs,Lost
+423,2014-05-05,Delhi Capitals v Chennai Super Kings,Delhi,Chennai Super Kings won by 8 Wickets,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,8 Wickets,Won
+424,2014-05-06,Mumbai Indians v Royal Challengers Bangalore,Mumbai,Mumbai Indians won by 19 Runs,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,19 Runs,Lost
+425,2014-05-07,Delhi Capitals v Kolkata Knight Riders,Delhi,Kolkata Knight Riders won by 8 Wickets,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,8 Wickets,Won
+426,2014-05-07,Punjab Kings v Chennai Super Kings,Cuttack,Punjab Kings won by 44 Runs,Punjab Kings,Chennai Super Kings,Punjab Kings,44 Runs,Lost
+427,2014-05-08,Sunrisers Hyderabad v Rajasthan Royals,Ahmedabad,Sunrisers Hyderabad won by 32 Runs,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,32 Runs,Lost
+428,2014-05-09,Royal Challengers Bangalore v Punjab Kings,Bengaluru,Punjab Kings won by 32 Runs,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,32 Runs,Lost
+429,2014-05-10,Delhi Capitals v Sunrisers Hyderabad,Delhi,Sunrisers Hyderabad won by 8 Wickets [D/L],Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,8 Wickets [D/L],Won
+430,2014-05-10,Mumbai Indians v Chennai Super Kings,Mumbai,Chennai Super Kings won by 4 Wickets,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,4 Wickets,Won
+431,2014-05-11,Kolkata Knight Riders v Punjab Kings,Cuttack,Kolkata Knight Riders won by 9 Wickets,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,9 Wickets,Won
+432,2014-05-11,Royal Challengers Bangalore v Rajasthan Royals,Bengaluru,Rajasthan Royals won by 5 Wickets,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,5 Wickets,Won
+433,2014-05-12,Sunrisers Hyderabad v Mumbai Indians,Hyderabad,Mumbai Indians won by 7 Wickets,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,7 Wickets,Won
+434,2014-05-13,Chennai Super Kings v Rajasthan Royals,Ranchi,Chennai Super Kings won by 5 Wickets,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,5 Wickets,Won
+435,2014-05-13,Royal Challengers Bangalore v Delhi Capitals,Bengaluru,Royal Challengers Bangalore won by 16 Runs,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,16 Runs,Lost
+436,2014-05-14,Sunrisers Hyderabad v Punjab Kings,Hyderabad,Punjab Kings won by 6 Wickets,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,6 Wickets,Won
+437,2014-05-14,Kolkata Knight Riders v Mumbai Indians,Cuttack,Kolkata Knight Riders won by 6 Wickets,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,6 Wickets,Won
+438,2014-05-15,Rajasthan Royals v Delhi Capitals,Ahmedabad,Rajasthan Royals won by 62 Runs,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,62 Runs,Lost
+439,2014-05-18,Chennai Super Kings v Royal Challengers Bangalore,Ranchi,Royal Challengers Bangalore won by 5 Wickets,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,5 Wickets,Won
+440,2014-05-18,Sunrisers Hyderabad v Kolkata Knight Riders,Hyderabad,Kolkata Knight Riders won by 7 Wickets,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,7 Wickets,Won
+441,2014-05-19,Rajasthan Royals v Mumbai Indians,Ahmedabad,Mumbai Indians won by 25 Runs,Rajasthan Royals,Mumbai Indians,Mumbai Indians,25 Runs,Lost
+442,2014-05-19,Delhi Capitals v Punjab Kings,Delhi,Punjab Kings won by 4 Wickets,Delhi Capitals,Punjab Kings,Punjab Kings,4 Wickets,Won
+443,2014-05-20,Sunrisers Hyderabad v Royal Challengers Bangalore,Hyderabad,Sunrisers Hyderabad won by 7 Wickets,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,7 Wickets,Won
+444,2014-05-20,Kolkata Knight Riders v Chennai Super Kings,Kolkata,Kolkata Knight Riders won by 8 Wickets,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,8 Wickets,Won
+445,2014-05-21,Punjab Kings v Mumbai Indians,Mohali,Mumbai Indians won by 7 Wickets,Punjab Kings,Mumbai Indians,Mumbai Indians,7 Wickets,Won
+446,2014-05-22,Kolkata Knight Riders v Royal Challengers Bangalore,Kolkata,Kolkata Knight Riders won by 30 Runs,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,30 Runs,Lost
+447,2014-05-22,Chennai Super Kings v Sunrisers Hyderabad,Ranchi,Sunrisers Hyderabad won by 6 Wickets,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,6 Wickets,Won
+448,2014-05-23,Mumbai Indians v Delhi Capitals,Mumbai,Mumbai Indians won by 15 Runs,Mumbai Indians,Delhi Capitals,Mumbai Indians,15 Runs,Lost
+449,2014-05-23,Punjab Kings v Rajasthan Royals,Mohali,Punjab Kings won by 16 Runs,Punjab Kings,Rajasthan Royals,Punjab Kings,16 Runs,Lost
+450,2014-05-24,Royal Challengers Bangalore v Chennai Super Kings,Bengaluru,Chennai Super Kings won by 8 Wickets,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,8 Wickets,Won
+451,2014-05-24,Kolkata Knight Riders v Sunrisers Hyderabad,Kolkata,Kolkata Knight Riders won by 4 Wickets,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,4 Wickets,Won
+452,2014-05-25,Punjab Kings v Delhi Capitals,Mohali,Punjab Kings won by 7 Wickets,Punjab Kings,Delhi Capitals,Punjab Kings,7 Wickets,Won
+453,2014-05-25,Mumbai Indians v Rajasthan Royals,Mumbai,Mumbai Indians won by 5 Wickets,Mumbai Indians,Rajasthan Royals,Mumbai Indians,5 Wickets,Won
+454,2014-05-28,Mumbai Indians v Chennai Super Kings,Mumbai,Chennai Super Kings won by 7 Wickets,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,7 Wickets,Won
+455,2014-05-28,Kolkata Knight Riders v Punjab Kings,Kolkata,Kolkata Knight Riders won by 28 Runs,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,28 Runs,Lost
+456,2014-05-30,Chennai Super Kings v Punjab Kings,Mumbai,Punjab Kings won by 24 Runs,Chennai Super Kings,Punjab Kings,Punjab Kings,24 Runs,Lost
+457,2014-06-01,Kolkata Knight Riders v Punjab Kings,Bengaluru,Kolkata Knight Riders won by 3 Wickets,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,3 Wickets,Won
+458,2015-04-08,Kolkata Knight Riders v Mumbai Indians,Kolkata,Kolkata Knight Riders won by 3 Wickets,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,3 Wickets,Won
+459,2015-04-09,Chennai Super Kings v Delhi Capitals,Chennai,Chennai Super Kings won by 1 Run,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,1 Run,Won
+460,2015-04-10,Punjab Kings v Rajasthan Royals,Pune,Rajasthan Royals won by 26 Runs,Punjab Kings,Rajasthan Royals,Rajasthan Royals,26 Runs,Lost
+461,2015-04-11,Chennai Super Kings v Sunrisers Hyderabad,Chennai,Chennai Super Kings won by 45 Runs,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,45 Runs,Lost
+462,2015-04-11,Kolkata Knight Riders v Royal Challengers Bangalore,Kolkata,Royal Challengers Bangalore won by 3 Wickets,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,3 Wickets,Won
+463,2015-04-12,Delhi Capitals v Rajasthan Royals,Delhi,Rajasthan Royals won by 3 Wickets,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,3 Wickets,Won
+464,2015-04-12,Mumbai Indians v Punjab Kings,Mumbai,Punjab Kings won by 18 Runs,Mumbai Indians,Punjab Kings,Punjab Kings,18 Runs,Lost
+465,2015-04-13,Royal Challengers Bangalore v Sunrisers Hyderabad,Bengaluru,Sunrisers Hyderabad won by 8 Wickets,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,8 Wickets,Won
+466,2015-04-14,Rajasthan Royals v Mumbai Indians,Ahmedabad,Rajasthan Royals won by 7 Wickets,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,7 Wickets,Won
+467,2015-04-15,Punjab Kings v Delhi Capitals,Pune,Delhi Capitals won by 5 Wickets,Punjab Kings,Delhi Capitals,Delhi Capitals,5 Wickets,Won
+468,2015-04-16,Sunrisers Hyderabad v Rajasthan Royals,Visakhapatnam,Rajasthan Royals won by 6 Wickets,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,6 Wickets,Won
+469,2015-04-17,Mumbai Indians v Chennai Super Kings,Mumbai,Chennai Super Kings won by 6 Wickets,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,6 Wickets,Won
+470,2015-04-18,Sunrisers Hyderabad v Delhi Capitals,Visakhapatnam,Delhi Capitals won by 4 Runs,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,4 Runs,Lost
+471,2015-04-18,Punjab Kings v Kolkata Knight Riders,Pune,Kolkata Knight Riders won by 4 Wickets,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,4 Wickets,Won
+472,2015-04-19,Rajasthan Royals v Chennai Super Kings,Ahmedabad,Rajasthan Royals won by 8 Wickets,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,8 Wickets,Won
+473,2015-04-19,Royal Challengers Bangalore v Mumbai Indians,Bengaluru,Mumbai Indians won by 18 Runs,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,18 Runs,Lost
+474,2015-04-20,Delhi Capitals v Kolkata Knight Riders,Delhi,Kolkata Knight Riders won by 6 Wickets,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,6 Wickets,Won
+475,2015-04-21,Rajasthan Royals v Punjab Kings,Ahmedabad,Punjab Kings won by Super Over,Rajasthan Royals,Punjab Kings,Punjab Kings,Super Over,Won
+476,2015-04-22,Sunrisers Hyderabad v Kolkata Knight Riders,Visakhapatnam,Sunrisers Hyderabad won by 16 Runs [D/L],Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,16 Runs [D/L],Lost
+477,2015-04-22,Royal Challengers Bangalore v Chennai Super Kings,Bengaluru,Chennai Super Kings won by 27 Runs,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,27 Runs,Lost
+478,2015-04-23,Delhi Capitals v Mumbai Indians,Delhi,Delhi Capitals won by 37 Runs,Delhi Capitals,Mumbai Indians,Delhi Capitals,37 Runs,Lost
+479,2015-04-24,Rajasthan Royals v Royal Challengers Bangalore,Ahmedabad,Royal Challengers Bangalore won by 9 Wickets,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,9 Wickets,Won
+480,2015-04-25,Mumbai Indians v Sunrisers Hyderabad,Mumbai,Mumbai Indians won by 20 Runs,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,20 Runs,Lost
+481,2015-04-25,Chennai Super Kings v Punjab Kings,Chennai,Chennai Super Kings won by 97 Runs,Chennai Super Kings,Punjab Kings,Chennai Super Kings,97 Runs,Lost
+482,2015-04-26,Delhi Capitals v Royal Challengers Bangalore,Delhi,Royal Challengers Bangalore won by 10 Wickets,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,10 Wickets,Won
+483,2015-04-27,Punjab Kings v Sunrisers Hyderabad,Mohali,Sunrisers Hyderabad won by 20 Runs,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,20 Runs,Lost
+484,2015-04-28,Chennai Super Kings v Kolkata Knight Riders,Chennai,Chennai Super Kings won by 2 Runs,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2 Runs,Lost
+485,2015-04-30,Kolkata Knight Riders v Chennai Super Kings,Kolkata,Kolkata Knight Riders won by 7 Wickets,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,7 Wickets,Won
+486,2015-05-01,Delhi Capitals v Punjab Kings,Delhi,Delhi Capitals won by 9 Wickets,Delhi Capitals,Punjab Kings,Delhi Capitals,9 Wickets,Won
+487,2015-05-01,Mumbai Indians v Rajasthan Royals,Mumbai,Mumbai Indians won by 8 Runs,Mumbai Indians,Rajasthan Royals,Mumbai Indians,8 Runs,Lost
+488,2015-05-02,Royal Challengers Bangalore v Kolkata Knight Riders,Bengaluru,Royal Challengers Bangalore won by 7 Wickets,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,7 Wickets,Won
+489,2015-05-02,Sunrisers Hyderabad v Chennai Super Kings,Hyderabad,Sunrisers Hyderabad won by 22 Runs,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,22 Runs,Lost
+490,2015-05-03,Punjab Kings v Mumbai Indians,Mohali,Mumbai Indians won by 23 Runs,Punjab Kings,Mumbai Indians,Mumbai Indians,23 Runs,Lost
+491,2015-05-03,Rajasthan Royals v Delhi Capitals,Mumbai,Rajasthan Royals won by 14 Runs,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,14 Runs,Lost
+492,2015-05-04,Chennai Super Kings v Royal Challengers Bangalore,Chennai,Chennai Super Kings won by 24 Runs,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,24 Runs,Lost
+493,2015-05-04,Kolkata Knight Riders v Sunrisers Hyderabad,Kolkata,Kolkata Knight Riders won by 35 Runs,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,35 Runs,Lost
+494,2015-05-05,Mumbai Indians v Delhi Capitals,Mumbai,Mumbai Indians won by 5 Wickets,Mumbai Indians,Delhi Capitals,Mumbai Indians,5 Wickets,Won
+495,2015-05-06,Royal Challengers Bangalore v Punjab Kings,Bengaluru,Royal Challengers Bangalore won by 138 Runs,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,138 Runs,Lost
+496,2015-05-07,Rajasthan Royals v Sunrisers Hyderabad,Mumbai,Sunrisers Hyderabad won by 7 Runs,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,7 Runs,Lost
+497,2015-05-07,Kolkata Knight Riders v Delhi Capitals,Kolkata,Kolkata Knight Riders won by 13 Runs,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,13 Runs,Lost
+498,2015-05-08,Chennai Super Kings v Mumbai Indians,Chennai,Mumbai Indians won by 6 Wickets,Chennai Super Kings,Mumbai Indians,Mumbai Indians,6 Wickets,Won
+499,2015-05-09,Kolkata Knight Riders v Punjab Kings,Kolkata,Kolkata Knight Riders won by 1 Wicket,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,1 Wicket,Won
+500,2015-05-09,Delhi Capitals v Sunrisers Hyderabad,Raipur,Sunrisers Hyderabad won by 6 Runs,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,6 Runs,Lost
+501,2015-05-10,Mumbai Indians v Royal Challengers Bangalore,Mumbai,Royal Challengers Bangalore won by 39 Runs,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,39 Runs,Lost
+502,2015-05-10,Chennai Super Kings v Rajasthan Royals,Chennai,Chennai Super Kings won by 12 Runs,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,12 Runs,Lost
+503,2015-05-11,Sunrisers Hyderabad v Punjab Kings,Hyderabad,Sunrisers Hyderabad won by 5 Runs,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5 Runs,Lost
+504,2015-05-12,Delhi Capitals v Chennai Super Kings,Raipur,Delhi Capitals won by 6 Wickets,Delhi Capitals,Chennai Super Kings,Delhi Capitals,6 Wickets,Won
+505,2015-05-13,Punjab Kings v Royal Challengers Bangalore,Mohali,Punjab Kings won by 22 Runs,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,22 Runs,Lost
+506,2015-05-14,Mumbai Indians v Kolkata Knight Riders,Mumbai,Mumbai Indians won by 5 Runs,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,5 Runs,Lost
+507,2015-05-15,Sunrisers Hyderabad v Royal Challengers Bangalore,Hyderabad,Royal Challengers Bangalore won by 6 Wickets [D/L],Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,6 Wickets [D/L],Won
+508,2015-05-16,Punjab Kings v Chennai Super Kings,Mohali,Chennai Super Kings won by 7 Wickets,Punjab Kings,Chennai Super Kings,Chennai Super Kings,7 Wickets,Won
+509,2015-05-16,Rajasthan Royals v Kolkata Knight Riders,Mumbai,Rajasthan Royals won by 9 Runs,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,9 Runs,Lost
+510,2015-05-17,Sunrisers Hyderabad v Mumbai Indians,Hyderabad,Mumbai Indians won by 9 Wickets,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,9 Wickets,Won
+511,2015-05-19,Chennai Super Kings v Mumbai Indians,Mumbai,Mumbai Indians won by 25 Runs,Chennai Super Kings,Mumbai Indians,Mumbai Indians,25 Runs,Lost
+512,2015-05-20,Royal Challengers Bangalore v Rajasthan Royals,Pune,Royal Challengers Bangalore won by 71 Runs,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,71 Runs,Lost
+513,2015-05-22,Chennai Super Kings v Royal Challengers Bangalore,Ranchi,Chennai Super Kings won by 3 Wickets,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,3 Wickets,Won
+514,2015-05-24,Mumbai Indians v Chennai Super Kings,Kolkata,Mumbai Indians won by 41 Runs,Mumbai Indians,Chennai Super Kings,Mumbai Indians,41 Runs,Lost
+515,2016-04-09,Mumbai Indians v Rising Pune Supergiant,Mumbai,Rising Pune Supergiant won by 9 Wickets,Mumbai Indians,Pune Warriors,Pune Warriors,9 Wickets,Won
+516,2016-04-10,Kolkata Knight Riders v Delhi Capitals,Kolkata,Kolkata Knight Riders won by 9 Wickets,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,9 Wickets,Won
+517,2016-04-11,Punjab Kings v Gujarat Lions,Mohali,Gujarat Lions won by 5 Wickets,Punjab Kings,Gujarat Lions,Gujarat Lions,5 Wickets,Won
+518,2016-04-12,Royal Challengers Bangalore v Sunrisers Hyderabad,Bengaluru,Royal Challengers Bangalore won by 45 Runs,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,45 Runs,Lost
+519,2016-04-13,Kolkata Knight Riders v Mumbai Indians,Kolkata,Mumbai Indians won by 6 Wickets,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,6 Wickets,Won
+520,2016-04-14,Gujarat Lions v Rising Pune Supergiant,Khandheri,Gujarat Lions won by 7 Wickets,Gujarat Lions,Pune Warriors,Gujarat Lions,7 Wickets,Won
+521,2016-04-15,Delhi Capitals v Punjab Kings,Delhi,Delhi Capitals won by 8 Wickets,Delhi Capitals,Punjab Kings,Delhi Capitals,8 Wickets,Won
+522,2016-04-16,Sunrisers Hyderabad v Kolkata Knight Riders,Hyderabad,Kolkata Knight Riders won by 8 Wickets,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,8 Wickets,Won
+523,2016-04-16,Mumbai Indians v Gujarat Lions,Mumbai,Gujarat Lions won by 3 Wickets,Mumbai Indians,Gujarat Lions,Gujarat Lions,3 Wickets,Won
+524,2016-04-17,Punjab Kings v Rising Pune Supergiant,Mohali,Punjab Kings won by 6 Wickets,Punjab Kings,Pune Warriors,Punjab Kings,6 Wickets,Won
+525,2016-04-17,Royal Challengers Bangalore v Delhi Capitals,Bengaluru,Delhi Capitals won by 7 Wickets,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,7 Wickets,Won
+526,2016-04-18,Sunrisers Hyderabad v Mumbai Indians,Hyderabad,Sunrisers Hyderabad won by 7 Wickets,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,7 Wickets,Won
+527,2016-04-19,Punjab Kings v Kolkata Knight Riders,Mohali,Kolkata Knight Riders won by 7 Wickets,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,7 Wickets,Won
+528,2016-04-20,Mumbai Indians v Royal Challengers Bangalore,Cuttack,Mumbai Indians won by 6 Wickets,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,6 Wickets,Won
+529,2016-04-21,Gujarat Lions v Sunrisers Hyderabad,Khandheri,Sunrisers Hyderabad won by 10 Wickets,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,10 Wickets,Won
+530,2016-04-22,Rising Pune Supergiant v Royal Challengers Bangalore,Pune,Royal Challengers Bangalore won by 13 Runs,Pune Warriors,Royal Challengers Bangalore,Royal Challengers Bangalore,13 Runs,Lost
+531,2016-04-23,Delhi Capitals v Mumbai Indians,Delhi,Delhi Capitals won by 10 Runs,Delhi Capitals,Mumbai Indians,Delhi Capitals,10 Runs,Lost
+532,2016-04-23,Punjab Kings v Sunrisers Hyderabad,Hyderabad,Sunrisers Hyderabad won by 5 Wickets,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,5 Wickets,Won
+533,2016-04-24,Gujarat Lions v Royal Challengers Bangalore,Khandheri,Gujarat Lions won by 6 Wickets,Gujarat Lions,Royal Challengers Bangalore,Gujarat Lions,6 Wickets,Won
+534,2016-04-24,Rising Pune Supergiant v Kolkata Knight Riders,Pune,Kolkata Knight Riders won by 2 Wickets,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,2 Wickets,Won
+535,2016-04-25,Punjab Kings v Mumbai Indians,Mohali,Mumbai Indians won by 25 Runs,Punjab Kings,Mumbai Indians,Mumbai Indians,25 Runs,Lost
+536,2016-04-26,Sunrisers Hyderabad v Rising Pune Supergiant,Hyderabad,Rising Pune Supergiant won by 34 Runs [D/L],Sunrisers Hyderabad,Pune Warriors,Pune Warriors,34 Runs [D/L],Lost
+537,2016-04-27,Delhi Capitals v Gujarat Lions,Delhi,Gujarat Lions won by 1 Run,Delhi Capitals,Gujarat Lions,Gujarat Lions,1 Run,Won
+538,2016-04-28,Mumbai Indians v Kolkata Knight Riders,Mumbai,Mumbai Indians won by 6 Wickets,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,6 Wickets,Won
+539,2016-04-29,Rising Pune Supergiant v Gujarat Lions,Pune,Gujarat Lions won by 3 Wickets,Pune Warriors,Gujarat Lions,Gujarat Lions,3 Wickets,Won
+540,2016-04-30,Delhi Capitals v Kolkata Knight Riders,Delhi,Delhi Capitals won by 27 Runs,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,27 Runs,Lost
+541,2016-04-30,Sunrisers Hyderabad v Royal Challengers Bangalore,Hyderabad,Sunrisers Hyderabad won by 15 Runs,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,15 Runs,Lost
+542,2016-05-01,Gujarat Lions v Punjab Kings,Khandheri,Punjab Kings won by 23 Runs,Gujarat Lions,Punjab Kings,Punjab Kings,23 Runs,Lost
+543,2016-05-01,Rising Pune Supergiant v Mumbai Indians,Pune,Mumbai Indians won by 8 Wickets,Pune Warriors,Mumbai Indians,Mumbai Indians,8 Wickets,Won
+544,2016-05-02,Royal Challengers Bangalore v Kolkata Knight Riders,Bengaluru,Kolkata Knight Riders won by 5 Wickets,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,5 Wickets,Won
+545,2016-05-03,Gujarat Lions v Delhi Capitals,Khandheri,Delhi Capitals won by 8 Wickets,Gujarat Lions,Delhi Capitals,Delhi Capitals,8 Wickets,Won
+546,2016-05-04,Kolkata Knight Riders v Punjab Kings,Kolkata,Kolkata Knight Riders won by 7 Runs,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,7 Runs,Lost
+547,2016-05-05,Delhi Capitals v Rising Pune Supergiant,Delhi,Rising Pune Supergiant won by 7 Wickets,Delhi Capitals,Pune Warriors,Pune Warriors,7 Wickets,Won
+548,2016-05-06,Sunrisers Hyderabad v Gujarat Lions,Hyderabad,Sunrisers Hyderabad won by 5 Wickets,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,5 Wickets,Won
+549,2016-05-07,Royal Challengers Bangalore v Rising Pune Supergiant,Bengaluru,Royal Challengers Bangalore won by 7 Wickets,Royal Challengers Bangalore,Pune Warriors,Royal Challengers Bangalore,7 Wickets,Won
+550,2016-05-07,Punjab Kings v Delhi Capitals,Mohali,Punjab Kings won by 9 Runs,Punjab Kings,Delhi Capitals,Punjab Kings,9 Runs,Lost
+551,2016-05-08,Mumbai Indians v Sunrisers Hyderabad,Visakhapatnam,Sunrisers Hyderabad won by 85 Runs,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,85 Runs,Lost
+552,2016-05-08,Kolkata Knight Riders v Gujarat Lions,Kolkata,Gujarat Lions won by 5 Wickets,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,5 Wickets,Won
+553,2016-05-09,Punjab Kings v Royal Challengers Bangalore,Mohali,Royal Challengers Bangalore won by 1 Run,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,1 Run,Won
+554,2016-05-10,Rising Pune Supergiant v Sunrisers Hyderabad,Visakhapatnam,Sunrisers Hyderabad won by 4 Runs,Pune Warriors,Sunrisers Hyderabad,Sunrisers Hyderabad,4 Runs,Lost
+555,2016-05-11,Royal Challengers Bangalore v Mumbai Indians,Bengaluru,Mumbai Indians won by 6 Wickets,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,6 Wickets,Won
+556,2016-05-12,Sunrisers Hyderabad v Delhi Capitals,Hyderabad,Delhi Capitals won by 7 Wickets,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,7 Wickets,Won
+557,2016-05-13,Mumbai Indians v Punjab Kings,Visakhapatnam,Punjab Kings won by 7 Wickets,Mumbai Indians,Punjab Kings,Punjab Kings,7 Wickets,Won
+558,2016-05-14,Royal Challengers Bangalore v Gujarat Lions,Bengaluru,Royal Challengers Bangalore won by 144 Runs,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,144 Runs,Lost
+559,2016-05-14,Kolkata Knight Riders v Rising Pune Supergiant,Kolkata,Kolkata Knight Riders won by 8 Wickets [D/L],Kolkata Knight Riders,Pune Warriors,Kolkata Knight Riders,8 Wickets [D/L],Won
+560,2016-05-15,Punjab Kings v Sunrisers Hyderabad,Mohali,Sunrisers Hyderabad won by 7 Wickets,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,7 Wickets,Won
+561,2016-05-15,Mumbai Indians v Delhi Capitals,Visakhapatnam,Mumbai Indians won by 80 Runs,Mumbai Indians,Delhi Capitals,Mumbai Indians,80 Runs,Lost
+562,2016-05-16,Kolkata Knight Riders v Royal Challengers Bangalore,Kolkata,Royal Challengers Bangalore won by 9 Wickets,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,9 Wickets,Won
+563,2016-05-17,Rising Pune Supergiant v Delhi Capitals,Visakhapatnam,Rising Pune Supergiant won by 19 Runs [D/L],Pune Warriors,Delhi Capitals,Pune Warriors,19 Runs [D/L],Lost
+564,2016-05-18,Royal Challengers Bangalore v Punjab Kings,Bengaluru,Royal Challengers Bangalore won by 82 Runs [D/L],Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,82 Runs [D/L],Lost
+565,2016-05-19,Gujarat Lions v Kolkata Knight Riders,Kanpur,Gujarat Lions won by 6 Wickets,Gujarat Lions,Kolkata Knight Riders,Gujarat Lions,6 Wickets,Won
+566,2016-05-20,Delhi Capitals v Sunrisers Hyderabad,Raipur,Delhi Capitals won by 6 Wickets,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,6 Wickets,Won
+567,2016-05-21,Rising Pune Supergiant v Punjab Kings,Visakhapatnam,Rising Pune Supergiant won by 4 Wickets,Pune Warriors,Punjab Kings,Pune Warriors,4 Wickets,Won
+568,2016-05-21,Gujarat Lions v Mumbai Indians,Kanpur,Gujarat Lions won by 6 Wickets,Gujarat Lions,Mumbai Indians,Gujarat Lions,6 Wickets,Won
+569,2016-05-22,Kolkata Knight Riders v Sunrisers Hyderabad,Kolkata,Kolkata Knight Riders won by 22 Runs,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,22 Runs,Lost
+570,2016-05-22,Delhi Capitals v Royal Challengers Bangalore,Raipur,Royal Challengers Bangalore won by 6 Wickets,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,6 Wickets,Won
+571,2016-05-24,Royal Challengers Bangalore v Gujarat Lions,Bengaluru,Royal Challengers Bangalore won by 4 Wickets,Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,4 Wickets,Won
+572,2016-05-25,Sunrisers Hyderabad v Kolkata Knight Riders,Delhi,Sunrisers Hyderabad won by 22 Runs,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,22 Runs,Lost
+573,2016-05-27,Gujarat Lions v Sunrisers Hyderabad,Delhi,Sunrisers Hyderabad won by 4 Wickets,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,4 Wickets,Won
+574,2016-05-29,Royal Challengers Bangalore v Sunrisers Hyderabad,Bengaluru,Sunrisers Hyderabad won by 8 Runs,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,8 Runs,Lost
+575,2017-04-05,Sunrisers Hyderabad v Royal Challengers Bangalore,Hyderabad,Sunrisers Hyderabad won by 35 Runs,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,35 Runs,Lost
+576,2017-04-06,Rising Pune Supergiant v Mumbai Indians,Pune,Rising Pune Supergiant won by 7 Wickets,Pune Warriors,Mumbai Indians,Pune Warriors,7 Wickets,Won
+577,2017-04-07,Gujarat Lions v Kolkata Knight Riders,Khandheri,Kolkata Knight Riders won by 10 Wickets,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,10 Wickets,Won
+578,2017-04-08,Punjab Kings v Rising Pune Supergiant,Indore,Punjab Kings won by 6 Wickets,Punjab Kings,Pune Warriors,Punjab Kings,6 Wickets,Won
+579,2017-04-08,Royal Challengers Bangalore v Delhi Capitals,Bengaluru,Royal Challengers Bangalore won by 15 Runs,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,15 Runs,Lost
+580,2017-04-09,Sunrisers Hyderabad v Gujarat Lions,Hyderabad,Sunrisers Hyderabad won by 9 Wickets,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,9 Wickets,Won
+581,2017-04-09,Mumbai Indians v Kolkata Knight Riders,Mumbai,Mumbai Indians won by 4 Wickets,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,4 Wickets,Won
+582,2017-04-10,Punjab Kings v Royal Challengers Bangalore,Indore,Punjab Kings won by 8 Wickets,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,8 Wickets,Won
+583,2017-04-11,Rising Pune Supergiant v Delhi Capitals,Pune,Delhi Capitals won by 97 Runs,Pune Warriors,Delhi Capitals,Delhi Capitals,97 Runs,Lost
+584,2017-04-12,Mumbai Indians v Sunrisers Hyderabad,Mumbai,Mumbai Indians won by 4 Wickets,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,4 Wickets,Won
+585,2017-04-13,Kolkata Knight Riders v Punjab Kings,Cuttack,Kolkata Knight Riders won by 8 Wickets,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,8 Wickets,Won
+586,2017-04-14,Royal Challengers Bangalore v Mumbai Indians,Bengaluru,Mumbai Indians won by 4 Wickets,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,4 Wickets,Won
+587,2017-04-14,Gujarat Lions v Rising Pune Supergiant,Khandheri,Gujarat Lions won by 7 Wickets,Gujarat Lions,Pune Warriors,Gujarat Lions,7 Wickets,Won
+588,2017-04-15,Kolkata Knight Riders v Sunrisers Hyderabad,Kolkata,Kolkata Knight Riders won by 17 Runs,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,17 Runs,Lost
+589,2017-04-15,Delhi Capitals v Punjab Kings,Delhi,Delhi Capitals won by 51 Runs,Delhi Capitals,Punjab Kings,Delhi Capitals,51 Runs,Lost
+590,2017-04-16,Mumbai Indians v Gujarat Lions,Mumbai,Mumbai Indians won by 6 Wickets,Mumbai Indians,Gujarat Lions,Mumbai Indians,6 Wickets,Won
+591,2017-04-16,Royal Challengers Bangalore v Rising Pune Supergiant,Bengaluru,Rising Pune Supergiant won by 27 Runs,Royal Challengers Bangalore,Pune Warriors,Pune Warriors,27 Runs,Lost
+592,2017-04-17,Delhi Capitals v Kolkata Knight Riders,Delhi,Kolkata Knight Riders won by 4 Wickets,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,4 Wickets,Won
+593,2017-04-17,Sunrisers Hyderabad v Punjab Kings,Hyderabad,Sunrisers Hyderabad won by 5 Runs,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,5 Runs,Lost
+594,2017-04-18,Gujarat Lions v Royal Challengers Bangalore,Khandheri,Royal Challengers Bangalore won by 21 Runs,Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,21 Runs,Lost
+595,2017-04-19,Sunrisers Hyderabad v Delhi Capitals,Hyderabad,Sunrisers Hyderabad won by 15 Runs,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,15 Runs,Lost
+596,2017-04-20,Punjab Kings v Mumbai Indians,Indore,Mumbai Indians won by 8 Wickets,Punjab Kings,Mumbai Indians,Mumbai Indians,8 Wickets,Won
+597,2017-04-21,Kolkata Knight Riders v Gujarat Lions,Kolkata,Gujarat Lions won by 4 Wickets,Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,4 Wickets,Won
+598,2017-04-22,Sunrisers Hyderabad v Rising Pune Supergiant,Pune,Rising Pune Supergiant won by 6 Wickets,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,6 Wickets,Won
+599,2017-04-22,Mumbai Indians v Delhi Capitals,Mumbai,Mumbai Indians won by 14 Runs,Mumbai Indians,Delhi Capitals,Mumbai Indians,14 Runs,Lost
+600,2017-04-22,Punjab Kings v Gujarat Lions,Khandheri,Punjab Kings won by 26 Runs,Punjab Kings,Gujarat Lions,Punjab Kings,26 Runs,Lost
+601,2017-04-23,Kolkata Knight Riders v Royal Challengers Bangalore,Kolkata,Kolkata Knight Riders won by 82 Runs,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,82 Runs,Lost
+602,2017-04-24,Mumbai Indians v Rising Pune Supergiant,Mumbai,Rising Pune Supergiant won by 3 Runs,Mumbai Indians,Pune Warriors,Pune Warriors,3 Runs,Lost
+603,2017-04-26,Rising Pune Supergiant v Kolkata Knight Riders,Pune,Kolkata Knight Riders won by 7 Wickets,Pune Warriors,Kolkata Knight Riders,Kolkata Knight Riders,7 Wickets,Won
+604,2017-04-27,Royal Challengers Bangalore v Gujarat Lions,Bengaluru,Gujarat Lions won by 7 Wickets,Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,7 Wickets,Won
+605,2017-04-28,Kolkata Knight Riders v Delhi Capitals,Kolkata,Kolkata Knight Riders won by 7 Wickets,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,7 Wickets,Won
+606,2017-04-28,Punjab Kings v Sunrisers Hyderabad,Mohali,Sunrisers Hyderabad won by 26 Runs,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,26 Runs,Lost
+607,2017-04-29,Rising Pune Supergiant v Royal Challengers Bangalore,Pune,Rising Pune Supergiant won by 61 Runs,Pune Warriors,Royal Challengers Bangalore,Pune Warriors,61 Runs,Lost
+608,2017-04-29,Gujarat Lions v Mumbai Indians,Khandheri,Mumbai Indians won by tie,Gujarat Lions,Mumbai Indians,Mumbai Indians,tie,Tie
+609,2017-04-30,Punjab Kings v Delhi Capitals,Mohali,Punjab Kings won by 10 Wickets,Punjab Kings,Delhi Capitals,Punjab Kings,10 Wickets,Won
+610,2017-04-30,Sunrisers Hyderabad v Kolkata Knight Riders,Hyderabad,Sunrisers Hyderabad won by 48 Runs,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,48 Runs,Lost
+611,2017-05-01,Mumbai Indians v Royal Challengers Bangalore,Mumbai,Mumbai Indians won by 5 Wickets,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,5 Wickets,Won
+612,2017-05-01,Rising Pune Supergiant v Gujarat Lions,Pune,Rising Pune Supergiant won by 5 Wickets,Pune Warriors,Gujarat Lions,Pune Warriors,5 Wickets,Won
+613,2017-05-02,Delhi Capitals v Sunrisers Hyderabad,Delhi,Delhi Capitals won by 6 Wickets,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,6 Wickets,Won
+614,2017-05-03,Kolkata Knight Riders v Rising Pune Supergiant,Kolkata,Rising Pune Supergiant won by 4 Wickets,Kolkata Knight Riders,Pune Warriors,Pune Warriors,4 Wickets,Won
+615,2017-05-04,Delhi Capitals v Gujarat Lions,Delhi,Delhi Capitals won by 7 Wickets,Delhi Capitals,Gujarat Lions,Delhi Capitals,7 Wickets,Won
+616,2017-05-05,Royal Challengers Bangalore v Punjab Kings,Bengaluru,Punjab Kings won by 19 Runs,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,19 Runs,Lost
+617,2017-05-06,Sunrisers Hyderabad v Rising Pune Supergiant,Hyderabad,Rising Pune Supergiant won by 12 Runs,Sunrisers Hyderabad,Pune Warriors,Pune Warriors,12 Runs,Lost
+618,2017-05-06,Delhi Capitals v Mumbai Indians,Cuttack,Mumbai Indians won by 146 Runs,Delhi Capitals,Mumbai Indians,Mumbai Indians,146 Runs,Lost
+619,2017-05-07,Royal Challengers Bangalore v Kolkata Knight Riders,Bengaluru,Kolkata Knight Riders won by 6 Wickets,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,6 Wickets,Won
+620,2017-05-07,Punjab Kings v Gujarat Lions,Mohali,Gujarat Lions won by 6 Wickets,Punjab Kings,Gujarat Lions,Gujarat Lions,6 Wickets,Won
+621,2017-05-08,Sunrisers Hyderabad v Mumbai Indians,Hyderabad,Sunrisers Hyderabad won by 7 Wickets,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,7 Wickets,Won
+622,2017-05-09,Punjab Kings v Kolkata Knight Riders,Mohali,Punjab Kings won by 14 Runs,Punjab Kings,Kolkata Knight Riders,Punjab Kings,14 Runs,Lost
+623,2017-05-10,Gujarat Lions v Delhi Capitals,Kanpur,Delhi Capitals won by 2 Wickets,Gujarat Lions,Delhi Capitals,Delhi Capitals,2 Wickets,Won
+624,2017-05-11,Mumbai Indians v Punjab Kings,Mumbai,Punjab Kings won by 7 Runs,Mumbai Indians,Punjab Kings,Punjab Kings,7 Runs,Lost
+625,2017-05-12,Delhi Capitals v Rising Pune Supergiant,Delhi,Delhi Capitals won by 7 Runs,Delhi Capitals,Pune Warriors,Delhi Capitals,7 Runs,Lost
+626,2017-05-13,Gujarat Lions v Sunrisers Hyderabad,Kanpur,Sunrisers Hyderabad won by 8 Wickets,Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,8 Wickets,Won
+627,2017-05-13,Kolkata Knight Riders v Mumbai Indians,Kolkata,Mumbai Indians won by 9 Runs,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,9 Runs,Lost
+628,2017-05-14,Rising Pune Supergiant v Punjab Kings,Pune,Rising Pune Supergiant won by 9 Wickets,Pune Warriors,Punjab Kings,Pune Warriors,9 Wickets,Won
+629,2017-05-14,Delhi Capitals v Royal Challengers Bangalore,Delhi,Royal Challengers Bangalore won by 10 Runs,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,10 Runs,Lost
+630,2017-05-16,Mumbai Indians v Rising Pune Supergiant,Mumbai,Rising Pune Supergiant won by 20 Runs,Mumbai Indians,Pune Warriors,Pune Warriors,20 Runs,Lost
+631,2017-05-17,Sunrisers Hyderabad v Kolkata Knight Riders,Bengaluru,Kolkata Knight Riders won by 7 Wickets [D/L],Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,7 Wickets [D/L],Won
+632,2017-05-19,Mumbai Indians v Kolkata Knight Riders,Bengaluru,Mumbai Indians won by 6 Wickets,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,6 Wickets,Won
+633,2017-05-21,Mumbai Indians v Rising Pune Supergiant,Hyderabad,Mumbai Indians won by 1 Run,Mumbai Indians,Pune Warriors,Mumbai Indians,1 Run,Won
+634,2018-04-07,Mumbai Indians v Chennai Super Kings,Mumbai,Chennai Super Kings won by 1 Wicket,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,1 Wicket,Won
+635,2018-04-08,Punjab Kings v Delhi Capitals,Mohali,Punjab Kings won by 6 Wickets,Punjab Kings,Delhi Capitals,Punjab Kings,6 Wickets,Won
+636,2018-04-08,Kolkata Knight Riders v Royal Challengers Bangalore,Kolkata,Kolkata Knight Riders won by 4 Wickets,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,4 Wickets,Won
+637,2018-04-09,Sunrisers Hyderabad v Rajasthan Royals,Hyderabad,Sunrisers Hyderabad won by 9 Wickets,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,9 Wickets,Won
+638,2018-04-10,Chennai Super Kings v Kolkata Knight Riders,Chennai,Chennai Super Kings won by 5 Wickets,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,5 Wickets,Won
+639,2018-04-11,Rajasthan Royals v Delhi Capitals,Jaipur,Rajasthan Royals won by 10 Runs [D/L],Rajasthan Royals,Delhi Capitals,Rajasthan Royals,10 Runs [D/L],Lost
+640,2018-04-12,Mumbai Indians v Sunrisers Hyderabad,Hyderabad,Sunrisers Hyderabad won by 1 Wicket,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,1 Wicket,Won
+641,2018-04-13,Punjab Kings v Royal Challengers Bangalore,Bengaluru,Royal Challengers Bangalore won by 4 Wickets,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,4 Wickets,Won
+642,2018-04-14,Kolkata Knight Riders v Sunrisers Hyderabad,Kolkata,Sunrisers Hyderabad won by 5 Wickets,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,5 Wickets,Won
+643,2018-04-14,Mumbai Indians v Delhi Capitals,Mumbai,Delhi Capitals won by 7 Wickets,Mumbai Indians,Delhi Capitals,Delhi Capitals,7 Wickets,Won
+644,2018-04-15,Royal Challengers Bangalore v Rajasthan Royals,Bengaluru,Rajasthan Royals won by 19 Runs,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,19 Runs,Lost
+645,2018-04-15,Punjab Kings v Chennai Super Kings,Mohali,Punjab Kings won by 4 Runs,Punjab Kings,Chennai Super Kings,Punjab Kings,4 Runs,Lost
+646,2018-04-16,Kolkata Knight Riders v Delhi Capitals,Kolkata,Kolkata Knight Riders won by 71 Runs,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,71 Runs,Lost
+647,2018-04-17,Mumbai Indians v Royal Challengers Bangalore,Mumbai,Mumbai Indians won by 46 Runs,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,46 Runs,Lost
+648,2018-04-18,Rajasthan Royals v Kolkata Knight Riders,Jaipur,Kolkata Knight Riders won by 7 Wickets,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,7 Wickets,Won
+649,2018-04-19,Punjab Kings v Sunrisers Hyderabad,Mohali,Punjab Kings won by 15 Runs,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,15 Runs,Lost
+650,2018-04-20,Rajasthan Royals v Chennai Super Kings,Pune,Chennai Super Kings won by 64 Runs,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,64 Runs,Lost
+651,2018-04-21,Kolkata Knight Riders v Punjab Kings,Kolkata,Punjab Kings won by 9 Wickets [D/L],Kolkata Knight Riders,Punjab Kings,Punjab Kings,9 Wickets [D/L],Won
+652,2018-04-21,Royal Challengers Bangalore v Delhi Capitals,Bengaluru,Royal Challengers Bangalore won by 6 Wickets,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,6 Wickets,Won
+653,2018-04-22,Sunrisers Hyderabad v Chennai Super Kings,Hyderabad,Chennai Super Kings won by 4 Runs,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,4 Runs,Lost
+654,2018-04-22,Rajasthan Royals v Mumbai Indians,Jaipur,Rajasthan Royals won by 3 Wickets,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,3 Wickets,Won
+655,2018-04-23,Delhi Capitals v Punjab Kings,Delhi,Punjab Kings won by 4 Runs,Delhi Capitals,Punjab Kings,Punjab Kings,4 Runs,Lost
+656,2018-04-24,Mumbai Indians v Sunrisers Hyderabad,Mumbai,Sunrisers Hyderabad won by 31 Runs,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,31 Runs,Lost
+657,2018-04-25,Royal Challengers Bangalore v Chennai Super Kings,Bengaluru,Chennai Super Kings won by 5 Wickets,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,5 Wickets,Won
+658,2018-04-26,Sunrisers Hyderabad v Punjab Kings,Hyderabad,Sunrisers Hyderabad won by 13 Runs,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,13 Runs,Lost
+659,2018-04-27,Delhi Capitals v Kolkata Knight Riders,Delhi,Delhi Capitals won by 55 Runs,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,55 Runs,Lost
+660,2018-04-28,Chennai Super Kings v Mumbai Indians,Pune,Mumbai Indians won by 8 Wickets,Chennai Super Kings,Mumbai Indians,Mumbai Indians,8 Wickets,Won
+661,2018-04-29,Rajasthan Royals v Sunrisers Hyderabad,Jaipur,Sunrisers Hyderabad won by 11 Runs,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,11 Runs,Lost
+662,2018-04-29,Royal Challengers Bangalore v Kolkata Knight Riders,Bengaluru,Kolkata Knight Riders won by 6 Wickets,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,6 Wickets,Won
+663,2018-04-30,Chennai Super Kings v Delhi Capitals,Pune,Chennai Super Kings won by 13 Runs,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,13 Runs,Lost
+664,2018-05-01,Royal Challengers Bangalore v Mumbai Indians,Bengaluru,Royal Challengers Bangalore won by 14 Runs,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,14 Runs,Lost
+665,2018-05-02,Delhi Capitals v Rajasthan Royals,Delhi,Delhi Capitals won by 4 Runs [D/L],Delhi Capitals,Rajasthan Royals,Delhi Capitals,4 Runs [D/L],Lost
+666,2018-05-03,Kolkata Knight Riders v Chennai Super Kings,Kolkata,Kolkata Knight Riders won by 6 Wickets,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,6 Wickets,Won
+667,2018-05-04,Punjab Kings v Mumbai Indians,Indore,Mumbai Indians won by 6 Wickets,Punjab Kings,Mumbai Indians,Mumbai Indians,6 Wickets,Won
+668,2018-05-05,Chennai Super Kings v Royal Challengers Bangalore,Pune,Chennai Super Kings won by 6 Wickets,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,6 Wickets,Won
+669,2018-05-05,Sunrisers Hyderabad v Delhi Capitals,Hyderabad,Sunrisers Hyderabad won by 7 Wickets,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,7 Wickets,Won
+670,2018-05-06,Mumbai Indians v Kolkata Knight Riders,Mumbai,Mumbai Indians won by 13 Runs,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,13 Runs,Lost
+671,2018-05-06,Punjab Kings v Rajasthan Royals,Indore,Punjab Kings won by 6 Wickets,Punjab Kings,Rajasthan Royals,Punjab Kings,6 Wickets,Won
+672,2018-05-07,Sunrisers Hyderabad v Royal Challengers Bangalore,Hyderabad,Sunrisers Hyderabad won by 5 Runs,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,5 Runs,Lost
+673,2018-05-08,Rajasthan Royals v Punjab Kings,Jaipur,Rajasthan Royals won by 15 Runs,Rajasthan Royals,Punjab Kings,Rajasthan Royals,15 Runs,Lost
+674,2018-05-09,Kolkata Knight Riders v Mumbai Indians,Kolkata,Mumbai Indians won by 102 Runs,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,102 Runs,Lost
+675,2018-05-10,Delhi Capitals v Sunrisers Hyderabad,Delhi,Sunrisers Hyderabad won by 9 Wickets,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,9 Wickets,Won
+676,2018-05-11,Rajasthan Royals v Chennai Super Kings,Jaipur,Rajasthan Royals won by 4 Wickets,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,4 Wickets,Won
+677,2018-05-12,Punjab Kings v Kolkata Knight Riders,Indore,Kolkata Knight Riders won by 31 Runs,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,31 Runs,Lost
+678,2018-05-12,Delhi Capitals v Royal Challengers Bangalore,Delhi,Royal Challengers Bangalore won by 5 Wickets,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,5 Wickets,Won
+679,2018-05-13,Chennai Super Kings v Sunrisers Hyderabad,Pune,Chennai Super Kings won by 8 Wickets,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,8 Wickets,Won
+680,2018-05-13,Mumbai Indians v Rajasthan Royals,Mumbai,Rajasthan Royals won by 7 Wickets,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,7 Wickets,Won
+681,2018-05-14,Punjab Kings v Royal Challengers Bangalore,Indore,Royal Challengers Bangalore won by 10 Wickets,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,10 Wickets,Won
+682,2018-05-15,Kolkata Knight Riders v Rajasthan Royals,Kolkata,Kolkata Knight Riders won by 6 Wickets,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,6 Wickets,Won
+683,2018-05-16,Mumbai Indians v Punjab Kings,Mumbai,Mumbai Indians won by 3 Runs,Mumbai Indians,Punjab Kings,Mumbai Indians,3 Runs,Lost
+684,2018-05-17,Royal Challengers Bangalore v Sunrisers Hyderabad,Bengaluru,Royal Challengers Bangalore won by 14 Runs,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,14 Runs,Lost
+685,2018-05-18,Delhi Capitals v Chennai Super Kings,Delhi,Delhi Capitals won by 34 Runs,Delhi Capitals,Chennai Super Kings,Delhi Capitals,34 Runs,Lost
+686,2018-05-19,Rajasthan Royals v Royal Challengers Bangalore,Jaipur,Rajasthan Royals won by 30 Runs,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,30 Runs,Lost
+687,2018-05-19,Sunrisers Hyderabad v Kolkata Knight Riders,Hyderabad,Kolkata Knight Riders won by 5 Wickets,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,5 Wickets,Won
+688,2018-05-20,Delhi Capitals v Mumbai Indians,Delhi,Delhi Capitals won by 11 Runs,Delhi Capitals,Mumbai Indians,Delhi Capitals,11 Runs,Lost
+689,2018-05-20,Chennai Super Kings v Punjab Kings,Pune,Chennai Super Kings won by 5 Wickets,Chennai Super Kings,Punjab Kings,Chennai Super Kings,5 Wickets,Won
+690,2018-05-22,Chennai Super Kings v Sunrisers Hyderabad,Mumbai,Chennai Super Kings won by 2 Wickets,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,2 Wickets,Won
+691,2018-05-23,Kolkata Knight Riders v Rajasthan Royals,Kolkata,Kolkata Knight Riders won by 25 Runs,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,25 Runs,Lost
+692,2018-05-25,Kolkata Knight Riders v Sunrisers Hyderabad,Kolkata,Sunrisers Hyderabad won by 14 Runs,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,14 Runs,Lost
+693,2018-05-27,Chennai Super Kings v Sunrisers Hyderabad,Mumbai,Chennai Super Kings won by 8 Wickets,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,8 Wickets,Won
+694,2019-03-23,Chennai Super Kings v Royal Challengers Bangalore,Chennai,Chennai Super Kings won by 7 Wickets,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,7 Wickets,Won
+695,2019-03-24,Kolkata Knight Riders v Sunrisers Hyderabad,Kolkata,Kolkata Knight Riders won by 6 Wickets,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,6 Wickets,Won
+696,2019-03-24,Mumbai Indians v Delhi Capitals,Mumbai,Delhi Capitals won by 37 Runs,Mumbai Indians,Delhi Capitals,Delhi Capitals,37 Runs,Lost
+697,2019-03-25,Rajasthan Royals v Punjab Kings,Jaipur,Punjab Kings won by 14 Runs,Rajasthan Royals,Punjab Kings,Punjab Kings,14 Runs,Lost
+698,2019-03-26,Delhi Capitals v Chennai Super Kings,Delhi,Chennai Super Kings won by 6 Wickets,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,6 Wickets,Won
+699,2019-03-27,Kolkata Knight Riders v Punjab Kings,Kolkata,Kolkata Knight Riders won by 28 Runs,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,28 Runs,Lost
+700,2019-03-28,Royal Challengers Bangalore v Mumbai Indians,Bengaluru,Mumbai Indians won by 6 Runs,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,6 Runs,Lost
+701,2019-03-29,Sunrisers Hyderabad v Rajasthan Royals,Hyderabad,Sunrisers Hyderabad won by 5 Wickets,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,5 Wickets,Won
+702,2019-03-30,Delhi Capitals v Kolkata Knight Riders,Delhi,Kolkata Knight Riders won by tie,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,tie,Tie
+703,2019-03-30,Punjab Kings v Mumbai Indians,Mohali,Punjab Kings won by 8 Wickets,Punjab Kings,Mumbai Indians,Punjab Kings,8 Wickets,Won
+704,2019-03-31,Sunrisers Hyderabad v Royal Challengers Bangalore,Hyderabad,Sunrisers Hyderabad won by 118 Runs,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,118 Runs,Lost
+705,2019-03-31,Chennai Super Kings v Rajasthan Royals,Chennai,Chennai Super Kings won by 8 Runs,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,8 Runs,Lost
+706,2019-04-01,Punjab Kings v Delhi Capitals,Mohali,Punjab Kings won by 14 Runs,Punjab Kings,Delhi Capitals,Punjab Kings,14 Runs,Lost
+707,2019-04-02,Rajasthan Royals v Royal Challengers Bangalore,Jaipur,Rajasthan Royals won by 7 Wickets,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,7 Wickets,Won
+708,2019-04-03,Mumbai Indians v Chennai Super Kings,Mumbai,Mumbai Indians won by 37 Runs,Mumbai Indians,Chennai Super Kings,Mumbai Indians,37 Runs,Lost
+709,2019-04-04,Delhi Capitals v Sunrisers Hyderabad,Delhi,Sunrisers Hyderabad won by 5 Wickets,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,5 Wickets,Won
+710,2019-04-05,Royal Challengers Bangalore v Kolkata Knight Riders,Bengaluru,Kolkata Knight Riders won by 5 Wickets,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,5 Wickets,Won
+711,2019-04-06,Chennai Super Kings v Punjab Kings,Chennai,Chennai Super Kings won by 22 Runs,Chennai Super Kings,Punjab Kings,Chennai Super Kings,22 Runs,Lost
+712,2019-04-06,Sunrisers Hyderabad v Mumbai Indians,Hyderabad,Mumbai Indians won by 40 Runs,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,40 Runs,Lost
+713,2019-04-07,Royal Challengers Bangalore v Delhi Capitals,Bengaluru,Delhi Capitals won by 4 Wickets,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,4 Wickets,Won
+714,2019-04-07,Rajasthan Royals v Kolkata Knight Riders,Jaipur,Kolkata Knight Riders won by 8 Wickets,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,8 Wickets,Won
+715,2019-04-08,Punjab Kings v Sunrisers Hyderabad,Mohali,Punjab Kings won by 6 Wickets,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,6 Wickets,Won
+716,2019-04-09,Chennai Super Kings v Kolkata Knight Riders,Chennai,Chennai Super Kings won by 7 Wickets,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,7 Wickets,Won
+717,2019-04-10,Mumbai Indians v Punjab Kings,Mumbai,Mumbai Indians won by 3 Wickets,Mumbai Indians,Punjab Kings,Mumbai Indians,3 Wickets,Won
+718,2019-04-11,Rajasthan Royals v Chennai Super Kings,Jaipur,Chennai Super Kings won by 4 Wickets,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,4 Wickets,Won
+719,2019-04-12,Kolkata Knight Riders v Delhi Capitals,Kolkata,Delhi Capitals won by 7 Wickets,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,7 Wickets,Won
+720,2019-04-13,Mumbai Indians v Rajasthan Royals,Mumbai,Rajasthan Royals won by 4 Wickets,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,4 Wickets,Won
+721,2019-04-13,Punjab Kings v Royal Challengers Bangalore,Mohali,Royal Challengers Bangalore won by 8 Wickets,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,8 Wickets,Won
+722,2019-04-14,Kolkata Knight Riders v Chennai Super Kings,Kolkata,Chennai Super Kings won by 5 Wickets,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,5 Wickets,Won
+723,2019-04-14,Sunrisers Hyderabad v Delhi Capitals,Hyderabad,Delhi Capitals won by 39 Runs,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,39 Runs,Lost
+724,2019-04-15,Mumbai Indians v Royal Challengers Bangalore,Mumbai,Mumbai Indians won by 5 Wickets,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,5 Wickets,Won
+725,2019-04-16,Punjab Kings v Rajasthan Royals,Mohali,Punjab Kings won by 12 Runs,Punjab Kings,Rajasthan Royals,Punjab Kings,12 Runs,Lost
+726,2019-04-17,Sunrisers Hyderabad v Chennai Super Kings,Hyderabad,Sunrisers Hyderabad won by 6 Wickets,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,6 Wickets,Won
+727,2019-04-18,Delhi Capitals v Mumbai Indians,Delhi,Mumbai Indians won by 40 Runs,Delhi Capitals,Mumbai Indians,Mumbai Indians,40 Runs,Lost
+728,2019-04-19,Kolkata Knight Riders v Royal Challengers Bangalore,Kolkata,Royal Challengers Bangalore won by 10 Runs,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,10 Runs,Lost
+729,2019-04-20,Rajasthan Royals v Mumbai Indians,Jaipur,Rajasthan Royals won by 5 Wickets,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,5 Wickets,Won
+730,2019-04-20,Delhi Capitals v Punjab Kings,Delhi,Delhi Capitals won by 5 Wickets,Delhi Capitals,Punjab Kings,Delhi Capitals,5 Wickets,Won
+731,2019-04-21,Sunrisers Hyderabad v Kolkata Knight Riders,Hyderabad,Sunrisers Hyderabad won by 9 Wickets,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,9 Wickets,Won
+732,2019-04-21,Royal Challengers Bangalore v Chennai Super Kings,Bengaluru,Royal Challengers Bangalore won by 1 Run,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,1 Run,Won
+733,2019-04-22,Rajasthan Royals v Delhi Capitals,Jaipur,Delhi Capitals won by 6 Wickets,Rajasthan Royals,Delhi Capitals,Delhi Capitals,6 Wickets,Won
+734,2019-04-23,Chennai Super Kings v Sunrisers Hyderabad,Chennai,Chennai Super Kings won by 6 Wickets,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,6 Wickets,Won
+735,2019-04-24,Royal Challengers Bangalore v Punjab Kings,Bengaluru,Royal Challengers Bangalore won by 17 Runs,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,17 Runs,Lost
+736,2019-04-25,Kolkata Knight Riders v Rajasthan Royals,Kolkata,Rajasthan Royals won by 3 Wickets,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,3 Wickets,Won
+737,2019-04-26,Chennai Super Kings v Mumbai Indians,Chennai,Mumbai Indians won by 46 Runs,Chennai Super Kings,Mumbai Indians,Mumbai Indians,46 Runs,Lost
+738,2019-04-27,Rajasthan Royals v Sunrisers Hyderabad,Jaipur,Rajasthan Royals won by 7 Wickets,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,7 Wickets,Won
+739,2019-04-28,Delhi Capitals v Royal Challengers Bangalore,Delhi,Delhi Capitals won by 16 Runs,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,16 Runs,Lost
+740,2019-04-28,Kolkata Knight Riders v Mumbai Indians,Kolkata,Kolkata Knight Riders won by 34 Runs,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,34 Runs,Lost
+741,2019-04-29,Sunrisers Hyderabad v Punjab Kings,Hyderabad,Sunrisers Hyderabad won by 45 Runs,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,45 Runs,Lost
+742,2019-05-01,Chennai Super Kings v Delhi Capitals,Chennai,Chennai Super Kings won by 80 Runs,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,80 Runs,Lost
+743,2019-05-02,Mumbai Indians v Sunrisers Hyderabad,Mumbai,Sunrisers Hyderabad won by tie,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,tie,Tie
+744,2019-05-03,Punjab Kings v Kolkata Knight Riders,Mohali,Kolkata Knight Riders won by 7 Wickets,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,7 Wickets,Won
+745,2019-05-04,Delhi Capitals v Rajasthan Royals,Delhi,Delhi Capitals won by 5 Wickets,Delhi Capitals,Rajasthan Royals,Delhi Capitals,5 Wickets,Won
+746,2019-05-04,Royal Challengers Bangalore v Sunrisers Hyderabad,Bengaluru,Royal Challengers Bangalore won by 4 Wickets,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,4 Wickets,Won
+747,2019-05-05,Punjab Kings v Chennai Super Kings,Mohali,Punjab Kings won by 6 Wickets,Punjab Kings,Chennai Super Kings,Punjab Kings,6 Wickets,Won
+748,2019-05-05,Mumbai Indians v Kolkata Knight Riders,Mumbai,Mumbai Indians won by 9 Wickets,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,9 Wickets,Won
+749,2019-05-07,Chennai Super Kings v Mumbai Indians,Chennai,Mumbai Indians won by 6 Wickets,Chennai Super Kings,Mumbai Indians,Mumbai Indians,6 Wickets,Won
+750,2019-05-08,Delhi Capitals v Sunrisers Hyderabad,Visakhapatnam,Delhi Capitals won by 2 Wickets,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,2 Wickets,Won
+751,2019-05-10,Chennai Super Kings v Delhi Capitals,Visakhapatnam,Chennai Super Kings won by 6 Wickets,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,6 Wickets,Won
+752,2019-05-12,Chennai Super Kings v Mumbai Indians,Hyderabad,Mumbai Indians won by 1 Run,Chennai Super Kings,Mumbai Indians,Mumbai Indians,1 Run,Won
+753,2020-09-19,Chennai Super Kings v Mumbai Indians,Abu Dhabi,Chennai Super Kings won by 5 Wickets,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,5 Wickets,Won
+754,2020-09-20,Delhi Capitals v Punjab Kings,Dubai,Punjab Kings won by tie,Delhi Capitals,Punjab Kings,Punjab Kings,tie,Tie
+755,2020-09-21,Royal Challengers Bangalore v Sunrisers Hyderabad,Dubai,Royal Challengers Bangalore won by 10 Runs,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,10 Runs,Lost
+756,2020-09-22,Chennai Super Kings v Rajasthan Royals,Sharjah,Rajasthan Royals won by 16 Runs,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,16 Runs,Lost
+757,2020-09-23,Kolkata Knight Riders v Mumbai Indians,Abu Dhabi,Mumbai Indians won by 49 Runs,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,49 Runs,Lost
+758,2020-09-24,Punjab Kings v Royal Challengers Bangalore,Dubai,Punjab Kings won by 97 Runs,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,97 Runs,Lost
+759,2020-09-25,Chennai Super Kings v Delhi Capitals,Dubai,Delhi Capitals won by 44 Runs,Chennai Super Kings,Delhi Capitals,Delhi Capitals,44 Runs,Lost
+760,2020-09-26,Kolkata Knight Riders v Sunrisers Hyderabad,Abu Dhabi,Kolkata Knight Riders won by 7 Wickets,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,7 Wickets,Won
+761,2020-09-27,Punjab Kings v Rajasthan Royals,Sharjah,Rajasthan Royals won by 4 Wickets,Punjab Kings,Rajasthan Royals,Rajasthan Royals,4 Wickets,Won
+762,2020-09-28,Mumbai Indians v Royal Challengers Bangalore,Dubai,Royal Challengers Bangalore won by tie,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,tie,Tie
+763,2020-09-29,Delhi Capitals v Sunrisers Hyderabad,Abu Dhabi,Sunrisers Hyderabad won by 15 Runs,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,15 Runs,Lost
+764,2020-09-30,Kolkata Knight Riders v Rajasthan Royals,Dubai,Kolkata Knight Riders won by 37 Runs,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,37 Runs,Lost
+765,2020-10-01,Punjab Kings v Mumbai Indians,Abu Dhabi,Mumbai Indians won by 48 Runs,Punjab Kings,Mumbai Indians,Mumbai Indians,48 Runs,Lost
+766,2020-10-02,Chennai Super Kings v Sunrisers Hyderabad,Dubai,Sunrisers Hyderabad won by 7 Runs,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,7 Runs,Lost
+767,2020-10-03,Royal Challengers Bangalore v Rajasthan Royals,Abu Dhabi,Royal Challengers Bangalore won by 8 Wickets,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,8 Wickets,Won
+768,2020-10-03,Delhi Capitals v Kolkata Knight Riders,Sharjah,Delhi Capitals won by 18 Runs,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,18 Runs,Lost
+769,2020-10-04,Mumbai Indians v Sunrisers Hyderabad,Sharjah,Mumbai Indians won by 34 Runs,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,34 Runs,Lost
+770,2020-10-04,Chennai Super Kings v Punjab Kings,Dubai,Chennai Super Kings won by 10 Wickets,Chennai Super Kings,Punjab Kings,Chennai Super Kings,10 Wickets,Won
+771,2020-10-05,Delhi Capitals v Royal Challengers Bangalore,Dubai,Delhi Capitals won by 59 Runs,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,59 Runs,Lost
+772,2020-10-06,Mumbai Indians v Rajasthan Royals,Abu Dhabi,Mumbai Indians won by 57 Runs,Mumbai Indians,Rajasthan Royals,Mumbai Indians,57 Runs,Lost
+773,2020-10-07,Chennai Super Kings v Kolkata Knight Riders,Abu Dhabi,Kolkata Knight Riders won by 10 Runs,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,10 Runs,Lost
+774,2020-10-08,Punjab Kings v Sunrisers Hyderabad,Dubai,Sunrisers Hyderabad won by 69 Runs,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,69 Runs,Lost
+775,2020-10-09,Delhi Capitals v Rajasthan Royals,Sharjah,Delhi Capitals won by 46 Runs,Delhi Capitals,Rajasthan Royals,Delhi Capitals,46 Runs,Lost
+776,2020-10-10,Kolkata Knight Riders v Punjab Kings,Abu Dhabi,Kolkata Knight Riders won by 2 Runs,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,2 Runs,Lost
+777,2020-10-10,Chennai Super Kings v Royal Challengers Bangalore,Dubai,Royal Challengers Bangalore won by 37 Runs,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,37 Runs,Lost
+778,2020-10-11,Rajasthan Royals v Sunrisers Hyderabad,Dubai,Rajasthan Royals won by 5 Wickets,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,5 Wickets,Won
+779,2020-10-11,Delhi Capitals v Mumbai Indians,Abu Dhabi,Mumbai Indians won by 5 Wickets,Delhi Capitals,Mumbai Indians,Mumbai Indians,5 Wickets,Won
+780,2020-10-12,Kolkata Knight Riders v Royal Challengers Bangalore,Sharjah,Royal Challengers Bangalore won by 82 Runs,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,82 Runs,Lost
+781,2020-10-13,Chennai Super Kings v Sunrisers Hyderabad,Dubai,Chennai Super Kings won by 20 Runs,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,20 Runs,Lost
+782,2020-10-14,Delhi Capitals v Rajasthan Royals,Dubai,Delhi Capitals won by 13 Runs,Delhi Capitals,Rajasthan Royals,Delhi Capitals,13 Runs,Lost
+783,2020-10-15,Punjab Kings v Royal Challengers Bangalore,Sharjah,Punjab Kings won by 8 Wickets,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,8 Wickets,Won
+784,2020-10-16,Kolkata Knight Riders v Mumbai Indians,Abu Dhabi,Mumbai Indians won by 8 Wickets,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,8 Wickets,Won
+785,2020-10-17,Royal Challengers Bangalore v Rajasthan Royals,Dubai,Royal Challengers Bangalore won by 7 Wickets,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,7 Wickets,Won
+786,2020-10-17,Chennai Super Kings v Delhi Capitals,Sharjah,Delhi Capitals won by 5 Wickets,Chennai Super Kings,Delhi Capitals,Delhi Capitals,5 Wickets,Won
+787,2020-10-18,Kolkata Knight Riders v Sunrisers Hyderabad,Abu Dhabi,Sunrisers Hyderabad won by tie,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,tie,Tie
+788,2020-10-18,Punjab Kings v Mumbai Indians,Dubai,Mumbai Indians won by tie,Punjab Kings,Mumbai Indians,Mumbai Indians,tie,Tie
+789,2020-10-19,Chennai Super Kings v Rajasthan Royals,Abu Dhabi,Rajasthan Royals won by 7 Wickets,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,7 Wickets,Won
+790,2020-10-20,Delhi Capitals v Punjab Kings,Dubai,Punjab Kings won by 5 Wickets,Delhi Capitals,Punjab Kings,Punjab Kings,5 Wickets,Won
+791,2020-10-21,Kolkata Knight Riders v Royal Challengers Bangalore,Abu Dhabi,Royal Challengers Bangalore won by 8 Wickets,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,8 Wickets,Won
+792,2020-10-22,Rajasthan Royals v Sunrisers Hyderabad,Dubai,Sunrisers Hyderabad won by 8 Wickets,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,8 Wickets,Won
+793,2020-10-23,Chennai Super Kings v Mumbai Indians,Sharjah,Mumbai Indians won by 10 Wickets,Chennai Super Kings,Mumbai Indians,Mumbai Indians,10 Wickets,Won
+794,2020-10-24,Delhi Capitals v Kolkata Knight Riders,Abu Dhabi,Kolkata Knight Riders won by 59 Runs,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,59 Runs,Lost
+795,2020-10-24,Punjab Kings v Sunrisers Hyderabad,Dubai,Punjab Kings won by 12 Runs,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,12 Runs,Lost
+796,2020-10-25,Chennai Super Kings v Royal Challengers Bangalore,Dubai,Chennai Super Kings won by 8 Wickets,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,8 Wickets,Won
+797,2020-10-25,Mumbai Indians v Rajasthan Royals,Abu Dhabi,Rajasthan Royals won by 8 Wickets,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,8 Wickets,Won
+798,2020-10-26,Kolkata Knight Riders v Punjab Kings,Sharjah,Punjab Kings won by 8 Wickets,Kolkata Knight Riders,Punjab Kings,Punjab Kings,8 Wickets,Won
+799,2020-10-27,Delhi Capitals v Sunrisers Hyderabad,Dubai,Sunrisers Hyderabad won by 88 Runs,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,88 Runs,Lost
+800,2020-10-28,Mumbai Indians v Royal Challengers Bangalore,Abu Dhabi,Mumbai Indians won by 5 Wickets,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,5 Wickets,Won
+801,2020-10-29,Chennai Super Kings v Kolkata Knight Riders,Dubai,Chennai Super Kings won by 6 Wickets,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,6 Wickets,Won
+802,2020-10-30,Punjab Kings v Rajasthan Royals,Abu Dhabi,Rajasthan Royals won by 7 Wickets,Punjab Kings,Rajasthan Royals,Rajasthan Royals,7 Wickets,Won
+803,2020-10-31,Delhi Capitals v Mumbai Indians,Dubai,Mumbai Indians won by 9 Wickets,Delhi Capitals,Mumbai Indians,Mumbai Indians,9 Wickets,Won
+804,2020-10-31,Royal Challengers Bangalore v Sunrisers Hyderabad,Sharjah,Sunrisers Hyderabad won by 5 Wickets,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,5 Wickets,Won
+805,2020-11-01,Chennai Super Kings v Punjab Kings,Abu Dhabi,Chennai Super Kings won by 9 Wickets,Chennai Super Kings,Punjab Kings,Chennai Super Kings,9 Wickets,Won
+806,2020-11-01,Kolkata Knight Riders v Rajasthan Royals,Dubai,Kolkata Knight Riders won by 60 Runs,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,60 Runs,Lost
+807,2020-11-02,Delhi Capitals v Royal Challengers Bangalore,Abu Dhabi,Delhi Capitals won by 6 Wickets,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,6 Wickets,Won
+808,2020-11-03,Mumbai Indians v Sunrisers Hyderabad,Sharjah,Sunrisers Hyderabad won by 10 Wickets,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,10 Wickets,Won
+809,2020-11-05,Delhi Capitals v Mumbai Indians,Dubai,Mumbai Indians won by 57 Runs,Delhi Capitals,Mumbai Indians,Mumbai Indians,57 Runs,Lost
+810,2020-11-06,Royal Challengers Bangalore v Sunrisers Hyderabad,Abu Dhabi,Sunrisers Hyderabad won by 6 Wickets,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,6 Wickets,Won
+811,2020-11-08,Delhi Capitals v Sunrisers Hyderabad,Abu Dhabi,Delhi Capitals won by 17 Runs,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,17 Runs,Lost
+812,2020-11-10,Delhi Capitals v Mumbai Indians,Dubai,Mumbai Indians won by 5 Wickets,Delhi Capitals,Mumbai Indians,Mumbai Indians,5 Wickets,Won
+813,2021-04-09,Mumbai Indians v Royal Challengers Bangalore,Chennai,Royal Challengers Bangalore won by 2 Wickets,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,2 Wickets,Won
+814,2021-04-10,Chennai Super Kings v Delhi Capitals,Mumbai,Delhi Capitals won by 7 Wickets,Chennai Super Kings,Delhi Capitals,Delhi Capitals,7 Wickets,Won
+815,2021-04-11,Kolkata Knight Riders v Sunrisers Hyderabad,Chennai,Kolkata Knight Riders won by 10 Runs,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,10 Runs,Lost
+816,2021-04-12,Punjab Kings v Rajasthan Royals,Mumbai,Punjab Kings won by 4 Runs,Punjab Kings,Rajasthan Royals,Punjab Kings,4 Runs,Lost
+817,2021-04-13,Kolkata Knight Riders v Mumbai Indians,Chennai,Mumbai Indians won by 10 Runs,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,10 Runs,Lost
+818,2021-04-14,Royal Challengers Bangalore v Sunrisers Hyderabad,Chennai,Royal Challengers Bangalore won by 6 Runs,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,6 Runs,Lost
+819,2021-04-15,Delhi Capitals v Rajasthan Royals,Mumbai,Rajasthan Royals won by 3 Wickets,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,3 Wickets,Won
+820,2021-04-16,Chennai Super Kings v Punjab Kings,Mumbai,Chennai Super Kings won by 6 Wickets,Chennai Super Kings,Punjab Kings,Chennai Super Kings,6 Wickets,Won
+821,2021-04-17,Mumbai Indians v Sunrisers Hyderabad,Chennai,Mumbai Indians won by 13 Runs,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,13 Runs,Lost
+822,2021-04-18,Kolkata Knight Riders v Royal Challengers Bangalore,Chennai,Royal Challengers Bangalore won by 38 Runs,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,38 Runs,Lost
+823,2021-04-18,Delhi Capitals v Punjab Kings,Mumbai,Delhi Capitals won by 6 Wickets,Delhi Capitals,Punjab Kings,Delhi Capitals,6 Wickets,Won
+824,2021-04-19,Chennai Super Kings v Rajasthan Royals,Mumbai,Chennai Super Kings won by 45 Runs,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,45 Runs,Lost
+825,2021-04-20,Delhi Capitals v Mumbai Indians,Chennai,Delhi Capitals won by 6 Wickets,Delhi Capitals,Mumbai Indians,Delhi Capitals,6 Wickets,Won
+826,2021-04-21,Punjab Kings v Sunrisers Hyderabad,Chennai,Sunrisers Hyderabad won by 9 Wickets,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,9 Wickets,Won
+827,2021-04-21,Chennai Super Kings v Kolkata Knight Riders,Mumbai,Chennai Super Kings won by 18 Runs,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,18 Runs,Lost
+828,2021-04-22,Rajasthan Royals v Royal Challengers Bangalore,Mumbai,Royal Challengers Bangalore won by 10 Wickets,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,10 Wickets,Won
+829,2021-04-23,Mumbai Indians v Punjab Kings,Chennai,Punjab Kings won by 9 Wickets,Mumbai Indians,Punjab Kings,Punjab Kings,9 Wickets,Won
+830,2021-04-24,Kolkata Knight Riders v Rajasthan Royals,Mumbai,Rajasthan Royals won by 6 Wickets,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,6 Wickets,Won
+831,2021-04-25,Chennai Super Kings v Royal Challengers Bangalore,Mumbai,Chennai Super Kings won by 69 Runs,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,69 Runs,Lost
+832,2021-04-25,Delhi Capitals v Sunrisers Hyderabad,Chennai,Sunrisers Hyderabad won by tie,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,tie,Tie
+833,2021-04-26,Kolkata Knight Riders v Punjab Kings,Ahmedabad,Kolkata Knight Riders won by 5 Wickets,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,5 Wickets,Won
+834,2021-04-27,Delhi Capitals v Royal Challengers Bangalore,Ahmedabad,Royal Challengers Bangalore won by 1 Run,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,1 Run,Won
+835,2021-04-28,Chennai Super Kings v Sunrisers Hyderabad,Delhi,Chennai Super Kings won by 7 Wickets,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,7 Wickets,Won
+836,2021-04-29,Mumbai Indians v Rajasthan Royals,Delhi,Mumbai Indians won by 7 Wickets,Mumbai Indians,Rajasthan Royals,Mumbai Indians,7 Wickets,Won
+837,2021-04-29,Delhi Capitals v Kolkata Knight Riders,Ahmedabad,Delhi Capitals won by 7 Wickets,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,7 Wickets,Won
+838,2021-04-30,Punjab Kings v Royal Challengers Bangalore,Ahmedabad,Punjab Kings won by 34 Runs,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,34 Runs,Lost
+839,2021-05-01,Chennai Super Kings v Mumbai Indians,Delhi,Mumbai Indians won by 4 Wickets,Chennai Super Kings,Mumbai Indians,Mumbai Indians,4 Wickets,Won
+840,2021-05-02,Rajasthan Royals v Sunrisers Hyderabad,Delhi,Rajasthan Royals won by 55 Runs,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,55 Runs,Lost
+841,2021-05-02,Delhi Capitals v Punjab Kings,Ahmedabad,Delhi Capitals won by 7 Wickets,Delhi Capitals,Punjab Kings,Delhi Capitals,7 Wickets,Won
+842,2021-09-19,Chennai Super Kings v Mumbai Indians,Dubai,Chennai Super Kings won by 20 Runs,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,20 Runs,Lost
+843,2021-09-20,Kolkata Knight Riders v Royal Challengers Bangalore,Abu Dhabi,Kolkata Knight Riders won by 9 Wickets,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,9 Wickets,Won
+844,2021-09-21,Punjab Kings v Rajasthan Royals,Dubai,Rajasthan Royals won by 2 Runs,Punjab Kings,Rajasthan Royals,Rajasthan Royals,2 Runs,Lost
+845,2021-09-22,Delhi Capitals v Sunrisers Hyderabad,Dubai,Delhi Capitals won by 8 Wickets,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,8 Wickets,Won
+846,2021-09-23,Kolkata Knight Riders v Mumbai Indians,Abu Dhabi,Kolkata Knight Riders won by 7 Wickets,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,7 Wickets,Won
+847,2021-09-24,Chennai Super Kings v Royal Challengers Bangalore,Sharjah,Chennai Super Kings won by 6 Wickets,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,6 Wickets,Won
+848,2021-09-25,Delhi Capitals v Rajasthan Royals,Abu Dhabi,Delhi Capitals won by 33 Runs,Delhi Capitals,Rajasthan Royals,Delhi Capitals,33 Runs,Lost
+849,2021-09-25,Punjab Kings v Sunrisers Hyderabad,Sharjah,Punjab Kings won by 5 Runs,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,5 Runs,Lost
+850,2021-09-26,Chennai Super Kings v Kolkata Knight Riders,Abu Dhabi,Chennai Super Kings won by 2 Wickets,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,2 Wickets,Won
+851,2021-09-26,Mumbai Indians v Royal Challengers Bangalore,Dubai,Royal Challengers Bangalore won by 54 Runs,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,54 Runs,Lost
+852,2021-09-27,Rajasthan Royals v Sunrisers Hyderabad,Dubai,Sunrisers Hyderabad won by 7 Wickets,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,7 Wickets,Won
+853,2021-09-28,Delhi Capitals v Kolkata Knight Riders,Sharjah,Kolkata Knight Riders won by 3 Wickets,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,3 Wickets,Won
+854,2021-09-28,Mumbai Indians v Punjab Kings,Abu Dhabi,Mumbai Indians won by 6 Wickets,Mumbai Indians,Punjab Kings,Mumbai Indians,6 Wickets,Won
+855,2021-09-29,Rajasthan Royals v Royal Challengers Bangalore,Dubai,Royal Challengers Bangalore won by 7 Wickets,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,7 Wickets,Won
+856,2021-09-30,Chennai Super Kings v Sunrisers Hyderabad,Sharjah,Chennai Super Kings won by 6 Wickets,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,6 Wickets,Won
+857,2021-10-01,Kolkata Knight Riders v Punjab Kings,Dubai,Punjab Kings won by 5 Wickets,Kolkata Knight Riders,Punjab Kings,Punjab Kings,5 Wickets,Won
+858,2021-10-02,Delhi Capitals v Mumbai Indians,Sharjah,Delhi Capitals won by 4 Wickets,Delhi Capitals,Mumbai Indians,Delhi Capitals,4 Wickets,Won
+859,2021-10-02,Chennai Super Kings v Rajasthan Royals,Abu Dhabi,Rajasthan Royals won by 7 Wickets,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,7 Wickets,Won
+860,2021-10-03,Punjab Kings v Royal Challengers Bangalore,Sharjah,Royal Challengers Bangalore won by 6 Runs,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,6 Runs,Lost
+861,2021-10-03,Kolkata Knight Riders v Sunrisers Hyderabad,Dubai,Kolkata Knight Riders won by 6 Wickets,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,6 Wickets,Won
+862,2021-10-04,Chennai Super Kings v Delhi Capitals,Dubai,Delhi Capitals won by 3 Wickets,Chennai Super Kings,Delhi Capitals,Delhi Capitals,3 Wickets,Won
+863,2021-10-05,Mumbai Indians v Rajasthan Royals,Sharjah,Mumbai Indians won by 8 Wickets,Mumbai Indians,Rajasthan Royals,Mumbai Indians,8 Wickets,Won
+864,2021-10-06,Royal Challengers Bangalore v Sunrisers Hyderabad,Abu Dhabi,Sunrisers Hyderabad won by 4 Runs,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,4 Runs,Lost
+865,2021-10-07,Chennai Super Kings v Punjab Kings,Dubai,Punjab Kings won by 6 Wickets,Chennai Super Kings,Punjab Kings,Punjab Kings,6 Wickets,Won
+866,2021-10-07,Kolkata Knight Riders v Rajasthan Royals,Sharjah,Kolkata Knight Riders won by 86 Runs,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,86 Runs,Lost
+867,2021-10-08,Mumbai Indians v Sunrisers Hyderabad,Abu Dhabi,Mumbai Indians won by 42 Runs,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,42 Runs,Lost
+868,2021-10-08,Delhi Capitals v Royal Challengers Bangalore,Dubai,Royal Challengers Bangalore won by 7 Wickets,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,7 Wickets,Won
+869,2021-10-10,Chennai Super Kings v Delhi Capitals,Dubai,Chennai Super Kings won by 4 Wickets,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,4 Wickets,Won
+870,2021-10-11,Kolkata Knight Riders v Royal Challengers Bangalore,Sharjah,Kolkata Knight Riders won by 4 Wickets,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,4 Wickets,Won
+871,2021-10-13,Delhi Capitals v Kolkata Knight Riders,Sharjah,Kolkata Knight Riders won by 3 Wickets,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,3 Wickets,Won
+872,2021-10-15,Chennai Super Kings v Kolkata Knight Riders,Dubai,Chennai Super Kings won by 27 Runs,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,27 Runs,Lost
